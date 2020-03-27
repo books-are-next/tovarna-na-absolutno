@@ -1,13 +1,15 @@
 {{ define "content" }}
-<header class="hero">
+<header class="title">
+  <div class="dot"></div>
+  <div class="a">A</div>
+  <div class="arrow"></div>
   <h1>
-    {{ .Title }}
+    <span class="author">Karel Čapek</span><br>
+    Továrna<br>
+    na absolutno
   </h1>
-  <p class="author">{{ .Params.author }}</p>
+  <div class="light"></div>
 </header>
 <div class="content">
-    <div class="wrapper">
-      {{ .Content }}
-  </div>
 </div>
 {{ end }}

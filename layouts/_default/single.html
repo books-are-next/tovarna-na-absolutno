@@ -1,7 +1,10 @@
 {{ define "content" }}
 <div class="content">
   <div class="wrapper">
-    <h1>{{ .Title | markdownify }}</h1>
+    <header>
+      {{ with .Params.chapter }}<p>Kapitola {{ . }}</p>{{ end }}
+      <h1>{{ .Title | markdownify }}</h1>
+    </header>
     {{ with .Params.authors }}<p class="authors">{{ . | markdownify }}</p>{{ end }}
     {{ partial "typo.html" .RawContent }}
   </div>
