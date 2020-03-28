@@ -88,7 +88,7 @@
 .title {
   display: grid;
   grid-template-columns: 2fr 1fr 1fr 2fr;
-  grid-template-rows: 4rem 4fr 1fr;
+  grid-template-rows: 7rem 4fr 1fr;
   grid-column-gap: 0;
   grid-row-gap: 1rem;
 
@@ -103,7 +103,8 @@
     grid-column: 1;
     background-image: url(../title/dot.svg);
     background-position: 0% 0%;
-    background-size: 1rem;
+    background-size: auto 14.5%;
+    width: 1.2rem;
   }
   .arrow {
     grid-row: 1;
@@ -112,7 +113,7 @@
     background-position: 100% 50%;
     background-size: cover;
     background-repeat: no-repeat;
-    margin: 1rem 0;
+    margin: 2.2rem 0;
   }
   .a {
     grid-row: 1 / span 2;
@@ -157,7 +158,7 @@
 @media only screen and (min-aspect-ratio: 17/10) {
   .title {
     grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: 6rem 1fr 1fr 1fr;
+    grid-template-rows: 5.9rem 1fr 1fr 1fr;
     grid-column-gap: 10vw;
     grid-row-gap: 10vh;
 
@@ -169,7 +170,6 @@
     .arrow {
       grid-row: 1;
       grid-column: 4 / span 3;
-      margin: 0 0 0 10vw;
     }
     .a {
       grid-row: 1 / span 4;
@@ -195,30 +195,59 @@
 
 @media only screen and (min-aspect-ratio: 5/10) {
   .title {
+    .dot {
+      width: 3.9rem;
+    }
     .a {
       font-stretch: 150%;
-    }
-    .arrow {
-      margin: 0;
-      background-size: contain;
     }
   }
 }
 
-@media only screen and (min-aspect-ratio: 17/10) {
-  .title .a {
-    font-stretch: 300%;
+@media only screen and (min-aspect-ratio: 8/10) {
+  .title {
+    .dot {
+      width: 5.9rem;
+    }
+    .arrow {
+      margin: 1.5rem;
+    }
+  }
+}
+
+@media only screen and (min-aspect-ratio: 12/10) {
+  .title {
+    .a {
+      font-stretch: 300%;
+    }
+    .dot {
+      width: 10.9rem;
+    }
+    .arrow {
+      background-size: contain;
+      margin: 0;
+    }
   }
 }
 
 @media only screen and (min-aspect-ratio: 15/10) {
-  .title .a {
-    font-stretch: 700%;
+  .title {
+    .dot {
+      width: 12.9rem;
+    }
+    .a {
+      font-stretch: 700%;
+    }
   }
 }
 
 @media only screen and (min-aspect-ratio: 20/10) {
-  .title .a {
-    font-stretch: 1000%;
+  .title {
+    .a {
+      font-stretch: 1000%;
+    }
+    .dot {
+      width: 16.9rem;
+    }
   }
 }
