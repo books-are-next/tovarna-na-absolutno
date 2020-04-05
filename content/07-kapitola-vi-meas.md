@@ -47,6 +47,8 @@ Končím, pánové!</q>
 
 Načež se dr. Hubka rezolutně posadil vítězně smrkaje.
 
+{{< ilu num="05" alt="">}}
+
 Členové správní rady stísněně mlčeli; obvinění dr. Hubky bylo příliš jasné.
 Prezident Bondy nezvedl očí ze svých papírů; nic se nehnulo v jeho tváři.
 

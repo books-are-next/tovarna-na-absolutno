@@ -50,6 +50,8 @@ Maršál Jollivet chtěl na místě potrestati velitele nešťastné baterie deg
 Avšak Bobinet jej zadržel:
 <q>Nechte, maršálku; vždyť je to bláto francouzské.</q>
 
+{{< ilu num="14" alt="">}}
+
 Bobinet a invalida.
 Jednou zajel Bobinet nepoznán do Chartres.
 Cestou praskla pneumatika, a zatímco ji řidič vyměňoval, přiblížil se jednonohý invalida a žebral.

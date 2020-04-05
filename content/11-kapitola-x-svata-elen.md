@@ -21,6 +21,8 @@ To se už nedá zastavit.
 Kouká z toho konec světa či co.
 Za dva roky bude všechno na hromadě.
 
+{{< ilu num="08" alt="">}}
+
 Teď už pracuje na světě několik tisíc Karburátorů, a každý ve dne v noci chrlí Absolutno.
 A to Absolutno je po čertech inteligentní.
 Má zrovna bláznivou chuť nějak se zaměstnat.

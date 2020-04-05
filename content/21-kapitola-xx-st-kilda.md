@@ -18,6 +18,8 @@ Vskutku také byl torpédem ponořen dánský velrybářský škuner Nyls
 Hans, který se pokusil v noci proklouznout řetězem torpédovek; kromě dvanácti mužů posádky zahynul přitom politický zpravodaj listu Chicago Tribune Mr Joe Hashek.
 Nicméně zpravodaj New York Heraldu pan Bill Prittom dlel po celou dobu, převlečen za sklepníka, na St Kildě, a jeho péru děkujeme za těch několik zpráv, které se i po dalších dějinných katastrofách zachovaly o této památné schůzce.
 
+{{< ilu num="12" alt="">}}
+
 Pan Bill Prittom mínil, že tato vysoce politická konference se konala proto na místě tak opuštěném, aby byla vyloučena přímá ingerence Absolutna na její úrady.
 Všude jinde by se mohlo státi, že by se do shromáždění mužů tak vážných vloudilo Absolutno ve formě vnuknutí, osvícení, nebo dokonce zázraku, což by ve vyšší politice bylo samozřejmě něčím neslýchaným.
 Prvým účelem konference, zdá se, byla dohoda v koloniální politice; státy měly se shodnouti o tom, aby nepodporovaly náboženská hnutí na teritoriích jiných států.

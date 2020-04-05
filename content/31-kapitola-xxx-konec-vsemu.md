@@ -54,6 +54,8 @@ Tak dvě a jedno, Velebnosti?</q>
 <q>To se rozumí.
 Dvě a jedno.</q>
 
+{{< ilu num="18" alt="">}}
+
 Pan Binder otevřel dveře do kuchyně a křikl:
 <q>Dvě jitrnice a jedno jelito.</q>
 

@@ -51,6 +51,8 @@ Jošte, řekla mně tuhle Jeho Milost, jen do nich!
 Všeho do času, ale my navěky. – Pane
 Novotný, vás nenapadá žádné pořádné slovo?</q>
 
+{{< ilu num="11" alt="">}}
+
 <q>No tak třeba ,zločinná omezenost‘. Nebo ,perverzní zloba‘.</q>
 
 <q>To by šlo,</q> oddechl si páter Jošt.

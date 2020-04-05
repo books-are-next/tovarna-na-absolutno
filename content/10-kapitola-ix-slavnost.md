@@ -24,6 +24,8 @@ a tu pan Čvančara snížil hlas v šepot, <q>všimněte si, pane kolego, že t
 Kdyby se tenhle polámal, nebo byl, dejme tomu, vyhozen do povětří, pak – pak –
 chápete?</q>
 
+{{< ilu num="07" alt="">}}
+
 Kévala zamrzelo, že na tohle nepřišel sám.
 <q>To je vyloučeno, mistře,</q> začal tedy odporovat.
 <q>Já mám bezpečné informace.

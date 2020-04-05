@@ -166,6 +166,8 @@ Kdyby věřil, že Bůh je něco tak solidního a potřebného jako trikotové p
 Ale víte, nemá v Něj tolik obchodní důvěry; proto vnucuje lidem Snippersova Boha nebo Snippersovu Pravdu nadáváním, válkami a jinou nesolidní reklamou.
 Já jsem obchodník a rozumím konkurenci, ale tohle –</q>
 
+{{< ilu num="16" alt="">}}
+
 <q>Počkejte,</q> zadržel ho kapitán Trouble a zamířiv střelil do mangrového houští.
 <q>Tak.
 Myslím, že je o jednoho míň.</q>

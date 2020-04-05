@@ -160,6 +160,8 @@ Fechner?</q>
 
 <q>Nevím,</q> přiznal se prezident Bondy.
 
+{{< ilu num="03" alt="">}}
+
 <q>Fechner učí, že všecko, vůbec všecko je oduševněno, že Bůh oduševňuje všechnu hmotu na světě.
 A znáš Leibnize?
 Leibniz učí, že hmota je složena z duševních bodů, z monád, které jsou boží podstaty.

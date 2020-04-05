@@ -10,6 +10,8 @@ Nuže, kapka vody zvaná Hradec Králové je kronikáři památná tím, že se 
 Do Největší Války vstoupil Hradec Králové vyzbrojen jediným Karburátorem, a to v pivovaře, co podnes stojí za chrámem sv. Ducha, hned vedle kanovnických domů.
 Snad toto posvátné sousedství působilo na Absolutno v tom smyslu, že jalo se vařiti pivo vydatně a horlivě katolické a jím probudilo v hradeckém občanstvu stav, z něhož by nebožtík biskup Brynych měl nelíčenou radost.
 
+{{< ilu num="15" alt="">}}
+
 Avšak Hradec Králové je jaksi příliš na ráně, a proto se záhy octl v moci Prušáků, kteří v luteránské zuřivosti rozbili pivovarský Karburátor.
 Nicméně Hradec, věren historické kontinuitě, udržel příjemnou náboženskou temperaturu, zejména když pak tamní diecézi dostal osvícený světící biskup Linda.
 A i když přišli bobineti, Turci a Číňané, zachoval si Hradec hrdé vědomí, že: 1. má nejlepší východočeské ochotnické divadlo, 2. nejvyšší východočeskou zvonici a 3. na stránkách svých lokálních dějin největší východočeskou bitvu.

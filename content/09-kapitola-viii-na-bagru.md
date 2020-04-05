@@ -43,6 +43,8 @@ To jste vy, pekaři?</q>
 <q>Dobrý večer, pane Brych.
 Vezu vám pošťáka a pana hajnýho.</q>
 
+{{< ilu num="06" alt="">}}
+
 <q>Tak pojďte nahoru, bratři,</q> řekl pan Brych.
 <q>Až pan Kuzenda uvaří kafe, začneme.
 Kdo ještě přijde?</q>

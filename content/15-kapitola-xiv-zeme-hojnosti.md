@@ -17,6 +17,8 @@ Prosím, nepovažujte to za rouhání; snažím se jen vyjádřiti nepoměr mezi
 Tato bezúčelná, bujná, přímo horečná nadpočetnost všeho, co jest, se střízlivému lidskému oku jeví spíše jako rozpoutání nežli jako svědomité a metodické tvoření.
 Tolik jsem chtěl ve vší slušnosti říci, než se vrátíme k věci.
 
+{{< ilu num="07" alt="">}}
+
 Je vám již známo, že dokonalé spalování, vynalezené inž. Markem, téměř dokázalo přítomnost Absolutna ve veškeré hmotě.
 Možno si to představiti asi tak (– je to ovšem jen hypotéza), že před Stvořením všeho existovalo Absolutno jako Nekonečná Volná Energie.
 Tato Volná Energie se z nějakých vážných fyzických nebo mravních příčin pustila do Tvoření: stala se

@@ -12,6 +12,8 @@ Obchodník nabídl mu velký měděný válec se setrvačníkem a řekl, to že 
 Jan Binder byl pojat zvláštní, přímo slepou důvěrou k měděnému válci a koupil jej za tři sta.
 Sám jej pak dovezl vozíkem k svému kolotoči, který právě stál u Zlíchova s porouchaným pohonem.
 
+{{< ilu num="09" alt="">}}
+
 Jan Binder si svlékl kabát, složil měděný válec a potichu hvízdaje dal se do práce.
 Místo setrvačníku nasadil na hřídel kolo, na kolo přehodil řemen a vedl jej na jiný hřídel, který jedním koncem měl pohánět orchestrion a druhým kolotoč.
 Pak namazal čepy, strčil do jednoho kola a s rukama v kapsách, špule ústa k hvízdání, stál ve svém široce pruhovaném triku a zamyšleně čekal, co bude dál.

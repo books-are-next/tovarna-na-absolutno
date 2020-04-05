@@ -51,6 +51,8 @@ Podobných věšteckých dokladů z doby mezi 1845–1944 se zachovalo přes dv�
 Lze tedy souditi, že poslední bitva se strhla někde v blízkosti březového stromu; kdo tam válčil, nevíme, ale zbylo tam úhrnem třináct mužů z různých armád, kteří se po bitvě patrně uložili do stínu břízy.
 Tím okamžikem se skončila Největší Válka.
 
+{{< ilu num="17" alt="">}}
+
 Je však možno, že „bříza“ zde vystupuje symbolicky místo jména obce Březany, Březenec, Březhrad, Březí (jichž je v Čechách 24), Březina
 (jichž je 13), Březnoves, Březinka (4), Březinky, Březiny (3), Březka (4) nebo i
 Březko, Březná (2), Březnice (5), Březník, Březno (10), Březová (11), Březové

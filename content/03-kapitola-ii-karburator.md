@@ -28,7 +28,6 @@ Takový vynález je tak zrovna pro tebe.
 Z toho se dá nadělat,</q> mávl rukou, odkašlal a začal odměřeně:
 <q>Vynález, který vám předvedu, znamená větší převrat techniky než Wattův vynález parního stroje.
 Mám-li krátce naznačit jeho podstatu, tedy jde, teoreticky řečeno, o dokonalé využití atomové energie…</q>
-
 Bondy skrytě zívl.
 <q>A prosím tě, cos dělal po těch dvacet let?</q>
 
@@ -39,6 +38,8 @@ Marek vzhlédl trochu překvapeně.
 <q>Vidíš, já jsem byl vždycky ve fyzice slabý.
 Ale ty špatně vypadáš, Marku!
 Jak jsi vlastně přišel k téhle hrač – hm, k téhle továrně?</q>
+
+{{< ilu num="02" alt="">}}
 
 <q>Já?
 Docela náhodou.
@@ -155,14 +156,19 @@ Prezident Bondy si v rozpacích hladil bradu, hladkou a kulatou jako dětský za
 <q>Poslyš, Marku,</q> začal váhavě, <q>ty jsi jistě – tak trochu – přepracován –</q>
 
 Marek mávl rukou.
-<q>Ach, to nic – – Kdyby ses jen trochu vyznal ve fyzice, vysvětlil bych ti svůj Karburátor [* Tento název, jejž dal inž. Marek svému atomovému kotli, je ovšem zcela nesprávný; je to jeden z truchlivých následků toho, že se technikové neučí latinsky.
-Správnější název by byl Komburátor, Atomkettle, Carbowatt, Disgregátor, Motor M, Bondymover, Hylergon, Molekularstoffzersetzungskraftrad, E W. a jiné názvy, jež byly později navrhovány; ujalo se ovšem zrovna to špatné.], ve kterém se to spaluje.
+<q>Ach, to nic – – Kdyby ses jen trochu vyznal ve fyzice, vysvětlil bych ti svůj Karburátor[^1], ve kterém se to spaluje.
 Víš, to je celá kapitola z vyšší fyziky.
 Ale uvidíš to dole, ve sklepě.
 Já jsem nasypal půl kila uhlí do stroje a pak jsem to zavřel a dal notářsky zapečetit, před svědky, aby nikdo nemohl přisypat uhlí.
 Jdi se na to podívat, jdi, jdi už!
 Nebudeš tomu stejně rozumět, ale – jdi do sklepa!
 Člověče, jdi už!</q>
+
+[^1]:
+
+  Tento název, jejž dal inž. Marek svému atomovému kotli, je ovšem zcela nesprávný; je to jeden z truchlivých následků toho, že se technikové neučí latinsky.
+
+  Správnější název by byl Komburátor, Atomkettle, Carbowatt, Disgregátor, Motor M, Bondymover, Hylergon, Molekularstoffzersetzungskraftrad, E W. a jiné názvy, jež byly později navrhovány; ujalo se ovšem zrovna to špatné.
 
 <q>Copak ty nepůjdeš?</q>
 ptal se Bondy s podivem.

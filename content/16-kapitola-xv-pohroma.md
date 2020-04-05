@@ -94,6 +94,8 @@ Tím, že vše zdražil, uchoval to před vymrháním.
 Uprostřed šílené hojnosti všeho zachoval ostrov nedostatku a drahoty.
 Tušil zajisté, že tím zachraňuje svět.
 
+{{< ilu num="10" alt="">}}
+
 Neboť zatímco ostatní znehodnocené, zdarma rozdávané zboží ihned – s přírodní nutností – zmizelo z trhu, požívatiny se prodávaly dál.
 Ovšem musel jste pro ně na venkov.
 Váš pekař a řezník a hokynář neměl, co by vám dal, krom bratrské lásky a svatého slova.

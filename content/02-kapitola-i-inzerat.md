@@ -34,6 +34,8 @@ Honil je sloupec za sloupcem; ukrylo se s rozčilující schválností.
 Nyní pan Bondy začal zdola a konečně od pravé strany.
 Protivný NÁLEZ byl ten tam.
 
+{{< ilu num="01" alt="">}}
+
 G. H. Bondy se nevzdal.
 Složil znovu noviny, a hle, nenáviděné LEZ vyskočilo samo na okraji; tu tedy je zachytil prstem, otevřel rychle noviny a našel… Pan Bondy tiše zasakroval.
 Byl to všehovšudy velmi skrovný, velmi všední inzerátek:

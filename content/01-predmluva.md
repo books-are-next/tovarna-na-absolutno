@@ -33,5 +33,7 @@ Kildu, do Hradce Králové, na tichomořský atol, do Sedmi Chalup a posléze za
 Sledujte se zatajeným dechem, kterak až do poslední chvíle věří, že – jsa nemilosrdně honěn – přese vše míří k jakémusi cíli a sám honí jakousi ideu; a opustil-li ho v třicáté kapitole dech, neopustila ho podivná víra, že v klikaté cestě, kterou právě proběhl, byl jakýsi jednotný smysl.
 Toto jest pravý děj románu, jenž skutečně není románem, nýbrž fejetonovým seriálem: kterýžto název na něj nyní dodatečně připichuji.
 
+---
+
 V říjnu 1926  
 Karel Čapek

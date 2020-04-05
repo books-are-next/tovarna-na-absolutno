@@ -15,6 +15,8 @@ Docela jako když rozkládáš vodu na vodík a kyslík, jenže v ohromně vět�
 <q>Hm,</q> udělal pan Bondy.
 <q>Jen dál!</q>
 
+{{< ilu num="04" alt="">}}
+
 <q>Já si myslím,</q> pokračoval Marek opatrně, <q>že některé výjimečné osobnosti dovedou samy v sobě rozložit hmotnou a božskou substanci; víš, jaksi vybavit nebo vylisovat Absolutno ze své vlastní hmoty.
 Takhle Kristus, divotvorci, fakíři, média a proroci to dovedou nějakou psychickou silou.
 Můj Karburátor to dělá čistě strojově.

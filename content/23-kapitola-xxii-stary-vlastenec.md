@@ -81,6 +81,8 @@ Sebranými spisy Jana Vrby.
 Teď tam pracují zákopníci, vyhrabali doposud sedm mrtvol, mezi nimi tři docenty.
 Myslím, že zasypaných není víc než třicet.</q>
 
+{{< ilu num="13" alt="">}}
+
 <q>Mhm,</q> mínil pan Rejzek.
 
 <q>A Sparta, člověče,</q> drmolil Kéval v tichém nadšení, <q>Sparta prohlásila za jediného boha starořeckého Dia, kdežto Slávie je pro Svantovíta.NV neděli bude mač na Letné mezi oběma bohy, oba kluby se ozbrojí krom kopaček také ručními granáty, Slávie má prý mimoto kulomety a Sparta jedno dvanácticentimetrové dělo.
