@@ -1,0 +1,180 @@
+.nb-role-index {
+  background: black;
+
+  .content {
+    display: none;
+  }
+}
+
+.title {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 2fr;
+  grid-template-rows: 15vh 35vh 1fr;
+  grid-column-gap: 0;
+  grid-row-gap: 1rem;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+  background: black;
+  box-sizing: border-box;
+  padding: 1rem;
+
+  .dot {
+    grid-row: 1;
+    grid-column: 1;
+    background-image: url(../title/dot.svg);
+    background-position: 0% 0%;
+    background-size: auto 14.5%;
+    width: 1.2rem;
+  }
+  .arrow {
+    grid-row: 1;
+    grid-column: 4;
+    background-image: url(../title/arrow.svg);
+    background-position: 100% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 5vw 0;
+  }
+  .a {
+    grid-row: 1 / span 2;
+    grid-column: 2 / span 2;
+    //background-image: url(../title/narrow-a.svg);
+    font-family: "Cover", sans-serif;
+    color: white;
+    font-size: 60vh;
+    margin: 0 -15vw;
+    line-height: 1.2;
+    text-align: center;
+    background-position: 50% 0%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow-y: hidden;
+  }
+
+  .light {
+    grid-row: 3;
+    grid-column: 3 / span 2;
+    background-image: url(../title/light.svg);
+    background-position: 100% 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -1rem;
+  }
+
+  h1 {
+    grid-row: 3;
+    grid-column: 1 / -1;
+
+    font-size: 1.5rem;
+    margin: auto 0 -0.5rem 0;
+    color: white;
+    text-transform: uppercase;
+    white-space: nowrap;
+    font-family: "Space";
+
+    .author {
+      font-weight: normal;
+    }
+  }
+}
+
+@media only screen and (min-aspect-ratio: 5/10) {
+  .title {
+    .dot {
+      width: 3.9rem;
+    }
+    .a {
+      font-stretch: 150%;
+    }
+  }
+}
+
+@media only screen and (min-aspect-ratio: 6/10) {
+  .title {
+    .dot {
+      width: 5.9rem;
+    }
+  }
+}
+
+@media only screen and (min-aspect-ratio: 7/10) {
+  .title {
+    .a {
+      font-stretch: 600%;
+    }
+    .dot {
+      width: 10.9rem;
+    }
+    .arrow {
+      background-size: contain;
+      margin: 0;
+    }
+  }
+}
+
+@media only screen and (min-aspect-ratio: 8/10) {
+  :root {
+    --content-margin-left: calc((100vw - 32rem) / 3);
+  }
+
+  .title {
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: 10vh 20vh 10vh 20vh;
+    grid-column-gap: 10vw;
+    grid-row-gap: 10vh;
+
+    .dot {
+      grid-row: 1;
+      grid-column: 1 / span 3;
+      width: 15.1rem;
+      margin: 0 10vw 0 0;
+    }
+    .arrow {
+      grid-row: 1;
+      grid-column: 4 / span 3;
+    }
+    .a {
+      grid-row: 1 / span 4;
+      grid-column: 3 / span 2;
+      font-size: calc(90vh);
+      //background-image: url(../title/a.svg);
+      margin: 0 -20vh;
+      font-stretch: 500%;
+    }
+    .light {
+      grid-row: 3 / span 2;
+      grid-column: 4 / span 3;
+    }
+    h1 {
+      grid-row: 4;
+      grid-column: 1 / span 2;
+    }
+  }
+}
+
+@media only screen and (min-aspect-ratio: 12/10) {
+  .title {
+    .a {
+      font-stretch: 700%;
+    }
+    .dot {
+      width: 20.1rem;
+    }
+  }
+}
+
+@media only screen and (min-aspect-ratio: 16/10) {
+  .title {
+    .a {
+      font-stretch: 1000%;
+    }
+    .dot {
+      width: 25rem;
+    }
+  }
+}

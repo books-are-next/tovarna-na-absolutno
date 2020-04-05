@@ -44,6 +44,7 @@ chapters:
 static:
   - style
   - scripts
+  - title
   - fonts
   - images
   - favicon.png
