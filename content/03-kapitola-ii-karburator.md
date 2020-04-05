@@ -164,11 +164,9 @@ Jdi se na to podívat, jdi, jdi už!
 Nebudeš tomu stejně rozumět, ale – jdi do sklepa!
 Člověče, jdi už!</q>
 
-[^1]:
-
-  Tento název, jejž dal inž. Marek svému atomovému kotli, je ovšem zcela nesprávný; je to jeden z truchlivých následků toho, že se technikové neučí latinsky.
-
-  Správnější název by byl Komburátor, Atomkettle, Carbowatt, Disgregátor, Motor M, Bondymover, Hylergon, Molekularstoffzersetzungskraftrad, E W. a jiné názvy, jež byly později navrhovány; ujalo se ovšem zrovna to špatné.
+[^1]: Tento název, jejž dal inž. Marek svému atomovému kotli, je ovšem zcela nesprávný; je to jeden z truchlivých následků toho, že se technikové neučí latinsky.
+  
+    Správnější název by byl Komburátor, Atomkettle, Carbowatt, Disgregátor, Motor M, Bondymover, Hylergon, Molekularstoffzersetzungskraftrad, E W. a jiné názvy, jež byly později navrhovány; ujalo se ovšem zrovna to špatné.
 
 <q>Copak ty nepůjdeš?</q>
 ptal se Bondy s podivem.

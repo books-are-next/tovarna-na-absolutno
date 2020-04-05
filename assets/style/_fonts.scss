@@ -72,19 +72,19 @@
     $b: abs($b);
   }
 
-  @return calc(var(--font-size-ratio) * #{$m * 100}vw #{$sign} #{$b});
+  @return calc(#{$m * 100}vw #{$sign} #{$b});
 }
 
 :root {
   // Minimum font-size
-  font-size: 18px;
+  --base-font-size: 18px;
   // Font-size between 576 - 768
   @media (min-width: 20rem) {
     $map: (
       576px: 18px,
       768px: 20px,
     );
-    font-size: linear-interpolation($map);
+    --base-font-size: #{linear-interpolation($map)};
   }
   // Font-size between 768 - 992
   @media (min-width: 768px) {
@@ -92,11 +92,11 @@
       768px: 20px,
       992px: 23px,
     );
-    font-size: linear-interpolation($map);
+    --base-font-size: #{linear-interpolation($map)};
   }
   // Maximum font-size
   @media (min-width: 992px) {
-    font-size: 23px;
+    --base-font-size: 23px;
   }
 }
 
