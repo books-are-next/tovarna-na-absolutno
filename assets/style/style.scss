@@ -3,11 +3,6 @@
 @import "title";
 
 :root {
-  line-height: 1.4;
-  margin: 0;
-  padding: 0;
-  height: 100%;
-
   --background: #fff;
   --main: #255537;
   --light: #fafafa;
@@ -19,9 +14,11 @@
   --content-font: "Spectral", serif;
 
   --content-max-width: 32rem;
-  --content-margin-left: calc((100vw - 32rem) / 3);
-
   color: var(--dark);
+}
+
+@media only screen and (min-width: 32rem) {
+  --content-margin-left: calc((100vw - 32rem) / 3);
 }
 
 @supports (font-variation-settings: "wdth" 115) {
