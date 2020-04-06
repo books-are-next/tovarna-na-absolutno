@@ -17,6 +17,10 @@
 
   --heading-font: "Space";
   --content-font: "Spectral", serif;
+
+  --content-max-width: 32rem;
+  --content-margin-left: calc((100vw - 32rem) / 3);
+
   color: var(--dark);
 }
 
