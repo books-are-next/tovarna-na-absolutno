@@ -85,7 +85,8 @@ Myslím, že zasypaných není víc než třicet.</q>
 
 <q>Mhm,</q> mínil pan Rejzek.
 
-<q>A Sparta, člověče,</q> drmolil Kéval v tichém nadšení, <q>Sparta prohlásila za jediného boha starořeckého Dia, kdežto Slávie je pro Svantovíta.NV neděli bude mač na Letné mezi oběma bohy, oba kluby se ozbrojí krom kopaček také ručními granáty, Slávie má prý mimoto kulomety a Sparta jedno dvanácticentimetrové dělo.
+<q>A Sparta, člověče,</q> drmolil Kéval v tichém nadšení, <q>Sparta prohlásila za jediného boha starořeckého Dia, kdežto Slávie je pro Svantovíta.
+V neděli bude mač na Letné mezi oběma bohy, oba kluby se ozbrojí krom kopaček také ručními granáty, Slávie má prý mimoto kulomety a Sparta jedno dvanácticentimetrové dělo.
 Ohromný nával na lístky, stoupenci obou klubů se ozbrojují.
 Rejzku, to bude kravál!
 Já myslím, že vyhraje Zeus.</q>
@@ -99,7 +100,8 @@ Co je nového v ČTK?</q>
 <q>Nic zvláštního,</q> bručel pan Rejzek.
 <q>Krvavé demonstrace v Římě.
 V Ulsteru se to maže, víte, irští katolíci.
-St Kilda se vůbec dementuje.NV Pešti pogromy.
+St Kilda se vůbec dementuje.
+V Pešti pogromy.
 Schizma ve Francii, objevili se tam zase valdenští a v Münsteru novokřtěnci.
 V Bologni zvolen vzdoropapež, nějaký páter Martin, z bosých bratří.
 A tak dále.

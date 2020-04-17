@@ -3,7 +3,8 @@ chapter: VI
 title: MEAS
 ---
 
-<q>Pánové,</q> mluvil prezident G. H. Bondy na schůzi správní rady závodů MEAS (Metallum A. Sp.), konané 20. února, <q>mohu vám sděliti, že jedna budova nového továrního komplexu na Vysočanech byla včera odevzdána provozu.NV nejbližších dnech počne se sériová výroba Karburátorů, pro začátek osmnáct kusů denně.
+<q>Pánové,</q> mluvil prezident G. H. Bondy na schůzi správní rady závodů MEAS (Metallum A. Sp.), konané 20. února, <q>mohu vám sděliti, že jedna budova nového továrního komplexu na Vysočanech byla včera odevzdána provozu.
+V nejbližších dnech počne se sériová výroba Karburátorů, pro začátek osmnáct kusů denně.
 V dubnu počítáme už s pětašedesáti kusy.
 Koncem července dvě stě kusů denně.
 Položili jsme patnáct kilometrů vlastních kolejí, hlavně pro dovoz uhlí.

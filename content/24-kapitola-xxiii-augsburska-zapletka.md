@@ -34,7 +34,8 @@ Arcibiskup dr. Lenz, který vyšel, aby uchlácholil manifestanty, hozen do řek
 Sociálně demokratičtí vůdcové pokusili se promluvit, ale museli utéci do synagógy.
 O 15. hod. synagóga rozmetána dynamitem.
 Zatímco byly pleněny židovské a protestantské krámy, přičemž došlo k střelbě a četným požárům, usnesla se městská rada naprostou většinou hlasů na neposkvrněném početí Panny Marie a vydala ohnivou výzvu ke katolickým národům světa, aby se chopily meče na obranu svaté víry katolické.
-Na tyto zprávy došlo k různým projevům v jiných městech bavorských.NV Mnichově o 19. hod. tábor lidu, za ohromného nadšení přijata rezoluce o odluce
+Na tyto zprávy došlo k různým projevům v jiných městech bavorských.
+V Mnichově o 19. hod. tábor lidu, za ohromného nadšení přijata rezoluce o odluce
 Jižních Zemí od německé spolkové říše.
 Mnichovská vláda depešovala do Berlína, že přejímá odpovědnost.
 Říšský kancléř dr. Wurm navštívil ihned ministra vojenství, který dirigoval do Bavor 10 000 bodáků ze saských a porýnských posádek.
@@ -135,7 +136,8 @@ Turci s pomocí arabských, súdánských a perských vojsk zaplavili celý Balk
 Obě sekty se honily od Cařihradu po Tatry s křepkostí a krvavostí náramnou, kterou naneštěstí vypíjeli také křesťané.
 A tak v této části Evropy bylo zase hůře než kdekoliv jinde.
 
-Polsko zmizelo, smeteno ruskou armádou; nyní jsou ruská vojska dirigována proti žluté invazi, která se valí na sever a na západ.NV Severní Americe vyloděno zatím deset armádních sborů japonských.
+Polsko zmizelo, smeteno ruskou armádou; nyní jsou ruská vojska dirigována proti žluté invazi, která se valí na sever a na západ.
+V Severní Americe vyloděno zatím deset armádních sborů japonských.
 
 Jak vidíte, není tu dosud řeči o Francii.
 Tu si totiž kronikář rezervoval pro kapitolu XXIV.

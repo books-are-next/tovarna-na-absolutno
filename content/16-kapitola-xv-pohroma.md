@@ -66,12 +66,13 @@ Zásobovací aparát z příčin právě dotčených selhal dokonale.
 
 Byla tu sice ministerstva zásobování, obchodu, sociální péče a železnic; podle našich pojmů bylo možno včas zachytit v továrnách ohromný proud výroby, zachovat ji před zkázou a opatrně rozvážet na místa vydrancovaná božskou štědrostí.
 Bohužel se tak nestalo.
-Ministerský personál trávil svůj úřední čas v radostných modlitbách, zachvácen obzvláště silnou milostí.NV ministerstvu zásobování ovládla situaci písařka slečna Šárová, jež kázala o
-Devíti Pásmech; v ministerstvu obchodu hlásal odborový přednosta Winkler askezi, jež upomínala na indickou jógu.
+Ministerský personál trávil svůj úřední čas v radostných modlitbách, zachvácen obzvláště silnou milostí.
+V ministerstvu zásobování ovládla situaci písařka slečna Šárová, jež kázala o Devíti Pásmech; v ministerstvu obchodu hlásal odborový přednosta Winkler askezi, jež upomínala na indickou jógu.
 Pravda, tato horečka trvala jen čtrnáct dní, načež dostavilo se – patrně na zvláštní vnuknutí Absolutna – zázračné vědomí povinnosti.
 Odpovědné úřady pracovaly zimničně ve dne v noci, aby řešily zásobovací katastrofu, ale bylo patrně již pozdě; jediný výsledek byl, že každé ministerstvo produkovalo denně patnáct až třiapadesát tisíc aktů, jež z usnesení meziministerské komise byly denně na nákladních autech odváženy do Vltavy.
 
-Jistě nejstrašnější byla situace vyživovací, ale naštěstí byl tu (pokud líčím jen poměry u nás) NÁŠ ČACKÝ VENKOV! Pánové, uvědomte si v této chvíli, že se odevždy říká: náš vesnický lid, všecka čest stranou, je jádro národa; je o tom dokonce stará píseň:
+Jistě nejstrašnější byla situace vyživovací, ale naštěstí byl tu (pokud líčím jen poměry u nás) NÁŠ ČACKÝ VENKOV!
+Pánové, uvědomte si v této chvíli, že se odevždy říká: náš vesnický lid, všecka čest stranou, je jádro národa; je o tom dokonce stará píseň:
 <q>Kdo je ten člověk?
 Zdali ho znáš?
 Toť český rolník, živitel náš!</q>

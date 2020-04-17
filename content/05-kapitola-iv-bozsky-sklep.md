@@ -96,7 +96,8 @@ Trpěl jsem hroznými úkazy.
 Četl jsem lidské myšlenky, linulo se ze mne světlo, musel jsem se zoufale přemáhat, abych neupadl v modlitbu a nezačal kázat víru v Boha.
 Chtěl jsem zasypat Karburátor pískem, ale při tom přišla na mne levitace.
 Stroj se nedá ničím zastavit.
-Nespím už doma.NI v továrně, mezi dělníky, se vyskytly těžké případy osvícení.
+Nespím už doma.
+I v továrně, mezi dělníky, se vyskytly těžké případy osvícení.
 Nevím si rady, Bondy.
 Ano, vyzkoušel jsem všechny možné izolační látky, které by nepropouštěly Absolutno ze sklepa ven.
 Popel, písek, kovové stěny, nic tomu nemůže zabránit.

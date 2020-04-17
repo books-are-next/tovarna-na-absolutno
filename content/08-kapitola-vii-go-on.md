@@ -65,7 +65,8 @@ Tady je depeše.</q>
 Prezident Bondy se vztyčil:
 <q>Ale přítelíčku, to jde nádherně!</q>
 
-<q>V oddělení hospodářských strojů pět tisíc objednávek.NV oddělení malých motorů pro pohon dvaadvacet tisíc.
+<q>V oddělení hospodářských strojů pět tisíc objednávek.
+V oddělení malých motorů pro pohon dvaadvacet tisíc.
 Sto padesát atomových čerpadel.
 Tři atomové lisy.
 Dvanáct atomových pecí pro vysoký žár.
