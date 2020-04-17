@@ -71,52 +71,48 @@ Patnáctého došlo k větší bitvě na obou březích Werry, protestantská vo
 Téhož dne padly také první výstřely na hranici belgicko-holandské.
 Anglie nařídila mobilizaci loďstva.
 
-16. února povolila Itálie volný průchod španělskému vojsku, jež vysláno Bavorům na pomoc.
-    Tyrolští sedláci, ozbrojeni kosami, vrhli se na helvítské Švýcary.
+16\. února povolila Itálie volný průchod španělskému vojsku, jež vysláno Bavorům na pomoc.
+Tyrolští sedláci, ozbrojeni kosami, vrhli se na helvítské Švýcary.
 
-17. února: Vzdoropapež Martin telegraficky požehnal bavorské armádě.
-    Nerozhodná bitva u Meiningen.
-    Rusko vyhlásilo válku polským katolíkům.
+17\. února: Vzdoropapež Martin telegraficky požehnal bavorské armádě.
+Nerozhodná bitva u Meiningen.
+Rusko vyhlásilo válku polským katolíkům.
 
-18. února: Irsko vyhlásilo válku Anglii.
-    V Brusse se objevil vzdorokalif a rozvinul zelený prapor Prorokův.
-    Mobilizace balkánských států, masakry v Makedonii.
+18\. února: Irsko vyhlásilo válku Anglii.
+V Brusse se objevil vzdorokalif a rozvinul zelený prapor Prorokův.
+Mobilizace balkánských států, masakry v Makedonii.
 
-19. února: Prolomena fronta severoněmecká.
-    Obecné povstání v
-    Indii.
-    Vyhlášena svatá válka moslimská proti křesťanům.
+19\. února: Prolomena fronta severoněmecká.
+Obecné povstání v
+Indii.
+Vyhlášena svatá válka moslimská proti křesťanům.
 
-20. února: Válka řecko-italská a její první srážky na albánské půdě.
+20\. února: Válka řecko-italská a její první srážky na albánské půdě.
 
-21. března: Japonská flotila vyplula na východ proti USA.
+21\. března: Japonská flotila vyplula na východ proti USA.
 
-22. března: Křižáci (katolíci) obsadili Berlín.
-    Zatím ve
-    Štětíně ujednána Unie protestantských států.
-    Německý císař Kašpar I. se ujímá osobně velení.
+22\. března: Křižáci (katolíci) obsadili Berlín.
+Zatím ve Štětíně ujednána Unie protestantských států.
+Německý císař Kašpar I\. se ujímá osobně velení.
 
-23. března: Dvoumiliónová armáda čínská hrne se přes hranice sibiřské a mandžuské.
-    Vojsko vzdoropapeže Martina dobývá Říma, papež Urban prchá do Portugalska.
+23\. března: Dvoumiliónová armáda čínská hrne se přes hranice sibiřské a mandžuské.
+Vojsko vzdoropapeže Martina dobývá Říma, papež Urban prchá do Portugalska.
 
-24. března: Španělsko žádá vydání papeže Urbana od lisabonské vlády; po odepření nastává ipso facto válka španělsko-portugalská.
+24\. března: Španělsko žádá vydání papeže Urbana od lisabonské vlády; po odepření nastává ipso facto válka španělsko-portugalská.
 
-25. března: Jihoamerické státy podávají ultimátum severoamerické Unii; žádají zrušení prohibice a zákaz náboženské svobody.
+25\. března: Jihoamerické státy podávají ultimátum severoamerické Unii; žádají zrušení prohibice a zákaz náboženské svobody.
 
-26. března: Japonské vojsko se vylodilo v Kalifornii a
-    Britské Kolumbii.
+26\. března: Japonské vojsko se vylodilo v Kalifornii a
+Britské Kolumbii.
 
-27. apríle byla světová situace zhruba tato: Ve střední Evropě odehrával se veliký konflikt světa katolického a protestantského.
-    Protestantská
-    Unie vytlačila křižáky z Berlína, držela Sasko a měla obsazeny i neutrální
-    Čechy; komando v Praze měl zvláštní náhodou švédský generálmajor Wrangel, snad potomek onoho generála z třicetileté války.
-    Proti tomu křižáci se zmocnili
-    Nizozemí, jež zaplavili mořem prokopavše hráze, dále celého Hannoverska a
-    Holštýnska až po Lubek, odkudž pronikali do Dánska.
-    Válčilo se bez pardonu.
-    Města srovnána se zemí, mužové pobiti, ženy do padesáti let znásilněny; ale nejdříve rozbíjeny nepřátelské Karburátory.
-    Pamětníci těchto nadmíru krvavých bojů ujišťují, že na obou stranách bojovaly nadpřirozené síly; někdy jako by neviditelná ruka popadla nepřátelské letadlo a mrštila jím o zem; nebo jako by zachytila letící tunový čtyřiapadesáticentimetrový projektil a vrhla jej zpět do vlastních řad.
-    Zvláště hrozné byly úkazy při ničení Karburátorů; jakmile bylo obsazeno nepřátelské místo, nastala neviditelná, ale zoufalá bitva kolem místních Karburátorů; časem bylo to jako smršť, jež rozdrtila a rozmetala celou budovu, kde stál atomový kotel, asi jako když se foukne do hromady peří; cihly, trámy a tašky vířily v divokém kotouči, a končilo to obyčejně strašlivou explozí, jež položila všechny stromy a stavby v okruhu až dvanácti kilometrů a vyryla jámu přes dvě stě metrů hlubokou; síla detonace ovšem kolísala podle velikosti explodujícího Karburátoru.
+27\. apríle byla světová situace zhruba tato: Ve střední Evropě odehrával se veliký konflikt světa katolického a protestantského.
+Protestantská Unie vytlačila křižáky z Berlína, držela Sasko a měla obsazeny i neutrální
+Čechy; komando v Praze měl zvláštní náhodou švédský generálmajor Wrangel, snad potomek onoho generála z třicetileté války.
+Proti tomu křižáci se zmocnili Nizozemí, jež zaplavili mořem prokopavše hráze, dále celého Hannoverska a Holštýnska až po Lubek, odkudž pronikali do Dánska.
+Válčilo se bez pardonu.
+Města srovnána se zemí, mužové pobiti, ženy do padesáti let znásilněny; ale nejdříve rozbíjeny nepřátelské Karburátory.
+Pamětníci těchto nadmíru krvavých bojů ujišťují, že na obou stranách bojovaly nadpřirozené síly; někdy jako by neviditelná ruka popadla nepřátelské letadlo a mrštila jím o zem; nebo jako by zachytila letící tunový čtyřiapadesáticentimetrový projektil a vrhla jej zpět do vlastních řad.
+Zvláště hrozné byly úkazy při ničení Karburátorů; jakmile bylo obsazeno nepřátelské místo, nastala neviditelná, ale zoufalá bitva kolem místních Karburátorů; časem bylo to jako smršť, jež rozdrtila a rozmetala celou budovu, kde stál atomový kotel, asi jako když se foukne do hromady peří; cihly, trámy a tašky vířily v divokém kotouči, a končilo to obyčejně strašlivou explozí, jež položila všechny stromy a stavby v okruhu až dvanácti kilometrů a vyryla jámu přes dvě stě metrů hlubokou; síla detonace ovšem kolísala podle velikosti explodujícího Karburátoru.
 
 Byly vypouštěny dusivé plyny v šířce tři sta kilometrů, jež spálily i vegetaci úplně do rezava; ale poněvadž se tato plazivá mračna několikrát – opět strategickým zasažením nadpřirozené síly – vrátila do vlastních řad, upustilo se od prostředku tak nespolehlivého.
 Ukázalo se, že Absolutno útočí, ale že se na druhé straně také brání; v boji pak užívalo neslýchaných zbraní (zemětřesení, cyklónů, sirných dešťů, potop, andělů, morů, kobylek atd.), že nezbylo než zcela změniti způsob strategie.
