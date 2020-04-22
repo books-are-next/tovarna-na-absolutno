@@ -4,201 +4,201 @@ title: Karburátor
 ---
 
 <q>Čekal jsem tě!</q>
-opakoval Marek, když posadil hosta do kožené klubovky.
+opakoval Marek, když posadil hosta do&nbsp;kožené klubovky.
 
-Za nic na světě by se byl Bondy nepřiznal k svým iluzím o sešlém vynálezci.
+Za&nbsp;nic na&nbsp;světě by se byl Bondy nepřiznal k&nbsp;svým iluzím o&nbsp;sešlém vynálezci.
 
 <q>Vidíš,</q> radoval se trochu nuceně, <q>je to náhoda!
-Mně totiž dnes ráno napadlo, že už jsme se dvacet let neviděli!
+Mně totiž dnes ráno napadlo, že&nbsp;už&nbsp;jsme se dvacet let neviděli!
 Dvacet let, považ, Rudo!</q>
 
 <q>Hm,</q> udělal Marek.
 <q>Tak tedy ty chceš koupit můj vynález?</q>
 
 <q>Koupit?</q>
-řekl G. H. Bondy váhavě.
-<q>Já opravdu nevím… Ani jsem na to nepomyslel.
-Chtěl jsem tě vidět a –</q>
+řekl G.&nbsp;H.&nbsp;Bondy váhavě.
+<q>Já opravdu nevím… Ani jsem na&nbsp;to nepomyslel.
+Chtěl jsem tě vidět a&nbsp;–</q>
 
 <q>Prosím tě, nedělej se!</q>
 přerušil ho Marek.
-<q>Já jsem věděl, že přijdeš.
+<q>Já jsem věděl, že&nbsp;přijdeš.
 Pro takovou věc jistě.
 Takový vynález je tak zrovna pro tebe.
-Z toho se dá nadělat,</q> mávl rukou, odkašlal a začal odměřeně:
+Z&nbsp;toho se dá nadělat,</q> mávl rukou, odkašlal a&nbsp;začal odměřeně:
 <q>Vynález, který vám předvedu, znamená větší převrat techniky než Wattův vynález parního stroje.
-Mám-li krátce naznačit jeho podstatu, tedy jde, teoreticky řečeno, o dokonalé využití atomové energie…</q>
+Mám-li krátce naznačit jeho podstatu, tedy jde, teoreticky řečeno, o&nbsp;dokonalé využití atomové energie…</q>
 Bondy skrytě zívl.
-<q>A prosím tě, cos dělal po těch dvacet let?</q>
+<q>A&nbsp;prosím tě, cos&nbsp;dělal po&nbsp;těch dvacet let?</q>
 
 Marek vzhlédl trochu překvapeně.
-<q>Moderní věda tvrdí, že hmota, totiž atomy, je složena z ohromného počtu jednotek energie; atom je vlastně shluk elektronů, to jest nejmenších elektrických dílců –</q>
+<q>Moderní věda tvrdí, že&nbsp;hmota, totiž atomy, je&nbsp;složena z&nbsp;ohromného počtu jednotek energie; atom je vlastně shluk elektronů, to&nbsp;jest nejmenších elektrických dílců –</q>
 
 <q>To je hrozně zajímavé,</q> přerušil ho prezident Bondy.
-<q>Vidíš, já jsem byl vždycky ve fyzice slabý.
+<q>Vidíš, já&nbsp;jsem byl vždycky ve&nbsp;fyzice slabý.
 Ale ty špatně vypadáš, Marku!
-Jak jsi vlastně přišel k téhle hrač – hm, k téhle továrně?</q>
+Jak jsi vlastně přišel k&nbsp;téhle hrač – hm, k&nbsp;téhle továrně?</q>
 
 {{< ilu num="02" alt="">}}
 
 <q>Já?
 Docela náhodou.
-Vynalezl jsem totiž nový způsob drátů do žárovek – To nic není, to jsem našel jen tak mimochodem.
-Víš, já už dvacet let pracuji na spalování hmot.
-Řekni sám, Bondy, co je největší problém moderní techniky?</q>
+Vynalezl jsem totiž nový způsob drátů do&nbsp;žárovek – To nic není, to&nbsp;jsem našel jen tak mimochodem.
+Víš, já&nbsp;už&nbsp;dvacet let pracuji na&nbsp;spalování hmot.
+Řekni sám, Bondy, co&nbsp;je největší problém moderní techniky?</q>
 
 <q>Obchod,</q> řekl prezident.
-<q>A jsi už ženat?</q>
+<q>A&nbsp;jsi už&nbsp;ženat?</q>
 
-<q>Vdovec,</q> odpověděl Marek a vyskočil vzrušen.
+<q>Vdovec,</q> odpověděl Marek a&nbsp;vyskočil vzrušen.
 <q>Žádný obchod, rozumíš?
 Spalování!
-Dokonalé využití tepelné energie, která je ve hmotě!
-Považ, že z uhlí vytopíme sotva stotisícinu toho, co bychom mohli vytopit!
+Dokonalé využití tepelné energie, která je ve&nbsp;hmotě!
+Považ, že&nbsp;z&nbsp;uhlí vytopíme sotva stotisícinu toho, co&nbsp;bychom mohli vytopit!
 Chápeš to?</q>
 
 <q>Ano.
 Uhlí je hrozně drahé,</q> mínil pan Bondy moudře.
-Marek se posadil a řekl zjitřeně:
+Marek se posadil a&nbsp;řekl zjitřeně:
 <q>Nepřišel-lis kvůli mému Karburátoru, Bondy, můžeš jít.</q>
 
 <q>Jen pokračuj,</q> doložil prezident pln mírnosti.
 
-Marek položil hlavu do dlaní.
-<q>Dvacet let jsem na tom pracoval,</q> vydralo se z něho těžce, <q>a teď, teď to prodám prvnímu, kdo přijde!
+Marek položil hlavu do&nbsp;dlaní.
+<q>Dvacet let jsem na&nbsp;tom pracoval,</q> vydralo se z&nbsp;něho těžce, <q>a&nbsp;teď, teď&nbsp;to prodám prvnímu, kdo&nbsp;přijde!
 Můj ohromný sen!
 Největší vynález, který dosud byl!
 Vážně, Bondy: je to úžasná věc.</q>
 
-<q>Jistě, na naše malé poměry,</q> přitakal Bondy.
+<q>Jistě, na&nbsp;naše malé poměry,</q> přitakal&nbsp;Bondy.
 
 <q>Ne, vůbec úžasná.
-Považ si, že můžeš využitkovat atomové energie naprosto beze zbytku!</q>
+Považ si, že&nbsp;můžeš využitkovat atomové energie naprosto beze zbytku!</q>
 
 <q>Aha,</q> pravil prezident.
 <q>Budeme topit atomy.
 Inu, pročpak ne.
-Máš to tady hezké, Rudo; malé a hezké.
+Máš to tady hezké, Rudo; malé a&nbsp;hezké.
 Kolik máš dělníků?</q>
 
 Marek neposlouchal.
-<q>Víš,</q> mluvil zamyšleně, <q>to máš jedno, jak se to řekne: ,využít atomové energie‘ nebo ,spálit hmotu‘. Nebo ,rozbít hmotu‘. Můžeš tomu říkat, jak chceš.</q>
+<q>Víš,</q> mluvil zamyšleně, <q>to máš jedno, jak&nbsp;se to řekne: ,využít atomové energie‘ nebo ,spálit hmotu‘. Nebo ,rozbít hmotu‘. Můžeš tomu říkat, jak&nbsp;chceš.</q>
 
 <q>Já jsem pro spálení,</q> řekl pan Bondy;
 <q>to zní tak intimně.</q>
 
-<q>Ale přesnější je ,roztříštit hmotu‘; víš, roztříštit atom na elektrony, a ty elektrony zapřáhnout do práce, chápeš to?</q>
+<q>Ale přesnější je ,roztříštit hmotu‘; víš, roztříštit atom na&nbsp;elektrony, a&nbsp;ty elektrony zapřáhnout do&nbsp;práce, chápeš to?</q>
 
 <q>Dokonale,</q> souhlasil prezident.
 <q>Jen je zapřáhnout!</q>
 
-<q>Mysli si, dejme tomu, že dva koně ze vší síly táhnou za oba konce provazu opačnými směry.
-Víš, co to je?</q>
+<q>Mysli si, dejme tomu, že&nbsp;dva koně ze&nbsp;vší síly táhnou za&nbsp;oba konce provazu opačnými směry.
+Víš, co&nbsp;to je?</q>
 
-<q>Patrně nějaký sport,</q> mínil pan Bondy.
+<q>Patrně nějaký sport,</q> mínil pan&nbsp;Bondy.
 
-<q>Ne, ale klid.
-Koně táhnou, ale nepostupují.
-A kdybys přesekl provaz –</q>
+<q>Ne, ale&nbsp;klid.
+Koně táhnou, ale&nbsp;nepostupují.
+A&nbsp;kdybys přesekl provaz –</q>
 
-<q>– koně se svalí,</q> zvolal G. H. Bondy nadšen.
+<q>– koně se svalí,</q> zvolal G.&nbsp;H.&nbsp;Bondy&nbsp;nadšen.
 
-<q>Ne, ale rozběhnou se; stávají se uvolněnou energií.
-A teď se podívej: takové svázané spřežení je hmota.
-Přetni pouto, které k sobě váže elektrony, a ony se –</q>
+<q>Ne, ale&nbsp;rozběhnou se; stávají se uvolněnou energií.
+A&nbsp;teď se podívej: takové svázané spřežení je hmota.
+Přetni pouto, které k&nbsp;sobě váže elektrony, a&nbsp;ony se –</q>
 
 <q>– rozběhnou!</q>
 
-<q>Ano, ale my je můžeme chytit a zapřáhnout, rozumíš?
+<q>Ano, ale&nbsp;my je můžeme chytit a&nbsp;zapřáhnout, rozumíš?
 Nebo si mysli tohle: My topíme, dejme tomu, kusem uhlí.
-Z toho dostaneme trochu tepla, ale krom toho popel, uhelný plyn a saze.
+Z&nbsp;toho dostaneme trochu tepla, ale&nbsp;krom toho popel, uhelný plyn a&nbsp;saze.
 Hmota se tím neztratí, rozumíš?</q>
 
 <q>Ano.
 Nechtěl bys cigáro?</q>
 
 <q>Nechci.
-Ale ta hmota, která zbývá, má ještě spoustu nespotřebované atomové energie.
+Ale ta hmota, která zbývá, má&nbsp;ještě spoustu nespotřebované atomové energie.
 Kdybychom spotřebovali vůbec všechnu atomovou energii, spotřebovali bychom tím také atomy.
 Zkrátka: hmota by zmizela.</q>
 
 <q>Aha.
 Teď tomu rozumím.</q>
 
-<q>To máš tak, jako bychom špatně vymílali obilí; jako bychom omleli tenoučkou vrchní slupku a ostatní vyhodili, jako vyhazujeme popel.
-Při dokonalém vymletí nezůstane ze zrna nic, nebo skoro nic, viď?
-A stejně při dokonalém spálení nezůstane z hmoty nic, nebo skoro nic.
+<q>To máš tak, jako bychom špatně vymílali obilí; jako bychom omleli tenoučkou vrchní slupku a&nbsp;ostatní vyhodili, jako vyhazujeme popel.
+Při dokonalém vymletí nezůstane ze&nbsp;zrna nic, nebo skoro nic, viď?
+A&nbsp;stejně při dokonalém spálení nezůstane z&nbsp;hmoty nic, nebo skoro nic.
 Vymele se nadobro.
 Spotřebuje se.
-Vrátí se v původní nic.
-Víš, hmota potřebuje strašnou spoustu energie na to, aby vůbec existovala; vezmi jí existenci, přinuť ji nebýt, a tím uvolníš ohromnou zásobu síly.
+Vrátí se v&nbsp;původní nic.
+Víš, hmota potřebuje strašnou spoustu energie na&nbsp;to, aby&nbsp;vůbec existovala; vezmi jí existenci, přinuť ji nebýt, a&nbsp;tím uvolníš ohromnou zásobu síly.
 Tak je to, Bondy.</q>
 
 <q>Aha.
 To není zlé.</q>
 
-<q>Pflüger například počítá, že jedno kilo uhlí obsahuje třiadvacet biliónů kalorií.
-Já myslím, že Pflüger přehání.</q>
+<q>Pflüger například počítá, že&nbsp;jedno kilo uhlí obsahuje třiadvacet biliónů kalorií.
+Já myslím, že&nbsp;Pflüger přehání.</q>
 
 <q>Rozhodně.</q>
 
-<q>Já jsem dospěl teoreticky k sedmi biliónům.
-Ale i to znamená, že by jeden kilogram uhlí při dokonalém spálení mohl pohánět slušnou továrnu po několik set hodin!</q>
+<q>Já jsem dospěl teoreticky k&nbsp;sedmi biliónům.
+Ale i&nbsp;to znamená, že&nbsp;by jeden kilogram uhlí při dokonalém spálení mohl pohánět slušnou továrnu po&nbsp;několik set hodin!</q>
 
-<q>U čerta!</q>
-vykřikl pan Bondy a vyskočil.
+<q>U&nbsp;čerta!</q>
+vykřikl pan Bondy a&nbsp;vyskočil.
 
 <q>Přesný počet hodin ti neudám.
-Já už spaluji po šest neděl půl kilogramu uhlí při zatížení třiceti kilogramometrů, a člověče, ono to běží pořád – pořád – – pořád – –</q>
-šeptal inženýr Marek bledna.
+Já už&nbsp;spaluji po&nbsp;šest neděl půl kilogramu uhlí při zatížení třiceti kilogramometrů, a&nbsp;člověče, ono&nbsp;to běží pořád – pořád – – pořád – –</q>
+šeptal inženýr Marek&nbsp;bledna.
 
-Prezident Bondy si v rozpacích hladil bradu, hladkou a kulatou jako dětský zadeček.
+Prezident Bondy si v&nbsp;rozpacích hladil bradu, hladkou a&nbsp;kulatou jako dětský zadeček.
 <q>Poslyš, Marku,</q> začal váhavě, <q>ty jsi jistě – tak trochu – přepracován –</q>
 
 Marek mávl rukou.
-<q>Ach, to nic – – Kdyby ses jen trochu vyznal ve fyzice, vysvětlil bych ti svůj Karburátor[^1], ve kterém se to spaluje.
-Víš, to je celá kapitola z vyšší fyziky.
-Ale uvidíš to dole, ve sklepě.
-Já jsem nasypal půl kila uhlí do stroje a pak jsem to zavřel a dal notářsky zapečetit, před svědky, aby nikdo nemohl přisypat uhlí.
-Jdi se na to podívat, jdi, jdi už!
-Nebudeš tomu stejně rozumět, ale – jdi do sklepa!
-Člověče, jdi už!</q>
+<q>Ach, to&nbsp;nic – – Kdyby ses jen trochu vyznal ve&nbsp;fyzice, vysvětlil bych ti svůj Karburátor[^1], ve&nbsp;kterém se to spaluje.
+Víš, to&nbsp;je celá kapitola z&nbsp;vyšší fyziky.
+Ale uvidíš to dole, ve&nbsp;sklepě.
+Já jsem nasypal půl kila uhlí do&nbsp;stroje a&nbsp;pak jsem to zavřel a&nbsp;dal notářsky zapečetit, před svědky, aby&nbsp;nikdo nemohl přisypat uhlí.
+Jdi se na&nbsp;to podívat, jdi, jdi&nbsp;už!
+Nebudeš tomu stejně rozumět, ale&nbsp;– jdi do&nbsp;sklepa!
+Člověče, jdi&nbsp;už!</q>
 
-[^1]: Tento název, jejž dal inž. Marek svému atomovému kotli, je ovšem zcela nesprávný; je to jeden z truchlivých následků toho, že se technikové neučí latinsky.
+[^1]: Tento název, jejž dal inž. Marek svému atomovému kotli, je&nbsp;ovšem zcela nesprávný; je to jeden z&nbsp;truchlivých následků toho, že&nbsp;se technikové neučí latinsky.
   
-    Správnější název by byl Komburátor, Atomkettle, Carbowatt, Disgregátor, Motor M, Bondymover, Hylergon, Molekularstoffzersetzungskraftrad, E W. a jiné názvy, jež byly později navrhovány; ujalo se ovšem zrovna to špatné.
+    Správnější název by byl Komburátor, Atomkettle, Carbowatt, Disgregátor, Motor M, Bondymover, Hylergon, Molekularstoffzersetzungskraftrad, E W.&nbsp;a&nbsp;jiné názvy, jež&nbsp;byly později navrhovány; ujalo se ovšem zrovna to&nbsp;špatné.
 
 <q>Copak ty nepůjdeš?</q>
-ptal se Bondy s podivem.
+ptal se Bondy s&nbsp;podivem.
 
-<q>Ne, jdi sám.
-A – poslyš, Bondy… dlouho tam nezůstávej.</q>
+<q>Ne, jdi&nbsp;sám.
+A&nbsp;– poslyš, Bondy… dlouho tam nezůstávej.</q>
 
 <q>Proč?</q>
 tázal se Bondy drobet podezřivě.
 
 <q>Jen tak.
-Mysli si třeba, že… že tam není zdrávo.
-A rozsviť si tam žárovku, knoflík je hned u dveří.
-Ten hluk, co je ve sklepě, to není můj stroj; ten pracuje docela tiše, vytrvale, bez zápachu… Tam hlučí jen, hm, jen takový ventilátor.
-No, jdi už, já tady počkám.
+Mysli si třeba, že… že&nbsp;tam není zdrávo.
+A&nbsp;rozsviť si tam žárovku, knoflík je hned u&nbsp;dveří.
+Ten hluk, co&nbsp;je ve&nbsp;sklepě, to&nbsp;není můj stroj; ten pracuje docela tiše, vytrvale, bez&nbsp;zápachu… Tam hlučí jen, hm, jen&nbsp;takový ventilátor.
+No, jdi&nbsp;už, já&nbsp;tady počkám.
 Potom mně povíš…</q>
 
-Prezident Bondy sestupuje do sklepa, trochu rád, že se zbavil na chvíli toho blázna (není přece pochyby, že je to blázen), a trochu stísněn pomyšlením, jak by co nejrychleji vymáznul.
-A koukejme, sklep má těsněné, ohromně tlusté dveře, docela jako pancéřová pokladna v bankách.
+Prezident Bondy sestupuje do&nbsp;sklepa, trochu rád, že&nbsp;se zbavil na&nbsp;chvíli toho blázna (není přece pochyby, že&nbsp;je to blázen), a&nbsp;trochu stísněn pomyšlením, jak&nbsp;by co nejrychleji vymáznul.
+A&nbsp;koukejme, sklep má těsněné, ohromně tlusté dveře, docela jako pancéřová pokladna v&nbsp;bankách.
 Dobrá, rozsvítit.
-Knoflík hned u dveří.
-Prostřed klenutého, betonového, jako klášterní cela čistého sklepení leží obrovský měděný válec na betonových kozách.
-Je odevšad uzavřen, jen nahoře je mřížka opatřená pečetěmi.
-Uvnitř stroje tma a ticho.
-Z válce pravidelným a klouzavým pohybem vybíhá píst, otáčející zvolna těžkým setrvačníkem.
+Knoflík hned u&nbsp;dveří.
+Prostřed klenutého, betonového, jako klášterní cela čistého sklepení leží obrovský měděný válec na&nbsp;betonových kozách.
+Je odevšad uzavřen, jen&nbsp;nahoře je mřížka opatřená pečetěmi.
+Uvnitř stroje tma a&nbsp;ticho.
+Z&nbsp;válce pravidelným a&nbsp;klouzavým pohybem vybíhá píst, otáčející zvolna těžkým setrvačníkem.
 To je všechno.
-Jen ventilátor hrčí ve sklepním okně neúnavným ruchem.
+Jen ventilátor hrčí ve&nbsp;sklepním okně neúnavným&nbsp;ruchem.
 
-Snad je to průvan z ventilátoru či co – pan Bondy cítí na čele zvláštní vanutí a jakýsi pocit, že mu vstávají vlasy; nyní to je, jako by byl unášen nekonečným prostorem; a nyní jako by letěl, necítě vlastní tíhy.
-G. H. Bondy klečí v jakési úžasné, jasné blaženosti, chtěl by křičet a zpívat, zdá se mu, že slyší šum nesmírných a nesčíslných křídel.
-A náhle ho někdo prudce chytí za ruku a táhne ze sklepa.
-Je to inženýr Marek, má na hlavě kuklu nebo skafandr jako potápěč a vleče Bondyho po schodech nahoru.
-V předsíni snímá kovovou kuklu a utírá si pot perlící se mu na čele.
+Snad je to průvan z&nbsp;ventilátoru či&nbsp;co – pan Bondy cítí na&nbsp;čele zvláštní vanutí a&nbsp;jakýsi pocit, že&nbsp;mu vstávají vlasy; nyní to je, jako by byl unášen nekonečným prostorem; a&nbsp;nyní jako by letěl, necítě vlastní tíhy.
+G.&nbsp;H.&nbsp;Bondy klečí v&nbsp;jakési úžasné, jasné blaženosti, chtěl by křičet a&nbsp;zpívat, zdá&nbsp;se mu, že&nbsp;slyší šum nesmírných a&nbsp;nesčíslných křídel.
+A&nbsp;náhle ho někdo prudce chytí za&nbsp;ruku a&nbsp;táhne ze&nbsp;sklepa.
+Je to inženýr Marek, má&nbsp;na&nbsp;hlavě kuklu nebo skafandr jako potápěč a&nbsp;vleče Bondyho po&nbsp;schodech nahoru.
+V&nbsp;předsíni snímá kovovou kuklu a&nbsp;utírá si pot perlící se mu na&nbsp;čele.
 
 <q>Byl nejvyšší čas,</q> vydechuje hrozně vzrušen.

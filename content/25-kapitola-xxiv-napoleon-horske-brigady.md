@@ -3,89 +3,89 @@ chapter: XXIV
 title: Napoleon horské brigády
 ---
 
-Bobinet, prosím, Toni Bobinet, dvaadvacetiletý poručík horského dělostřelectva, posádkou v Annecy (Haute Savoie), ale toho času na šestinedělním cvičení na Jehlách (Les Aiguilles), odkud, když je pěkně, je vidět na západě Annecyské jezero a Ženevu a na východě tupý hřbet Dobráka a špičky
-Montblanku – jste už doma? –, tedy poručík Toni Bobinet sedí na balvanu a tahá se za maličké knírky, jednak proto, že se nudí, jednak také, že už popáté přečetl čtrnáct dní staré noviny a přemýšlí.
+Bobinet, prosím, Toni Bobinet, dvaadvacetiletý poručík horského dělostřelectva, posádkou v&nbsp;Annecy (Haute Savoie), ale&nbsp;toho času na&nbsp;šestinedělním cvičení na&nbsp;Jehlách (Les Aiguilles), odkud, když je pěkně, je&nbsp;vidět na&nbsp;západě Annecyské jezero a&nbsp;Ženevu a&nbsp;na&nbsp;východě tupý hřbet Dobráka a&nbsp;špičky
+Montblanku – jste už&nbsp;doma? –, tedy poručík Toni Bobinet sedí na&nbsp;balvanu a&nbsp;tahá se za&nbsp;maličké knírky, jednak proto, že&nbsp;se nudí, jednak také, že&nbsp;už&nbsp;popáté přečetl čtrnáct dní staré noviny a&nbsp;přemýšlí.
 
-Nyní by kronikář měl sledovat myšlenky příštího Napoleona; ale zatím jeho (totiž kronikářův) pohled klouže ze zasněžených svahů do údolí
-Arly, kde už taje a kde ho poutají malá městečka, Mégeve, Flumet, Ugines, se špičatými kostely, jako hromádky hraček – ach, vzpomínka na dávno minulé dětství!
+Nyní by kronikář měl sledovat myšlenky příštího Napoleona; ale zatím jeho (totiž kronikářův) pohled klouže ze&nbsp;zasněžených svahů do&nbsp;údolí
+Arly, kde&nbsp;už&nbsp;taje a&nbsp;kde ho poutají malá městečka, Mégeve, Flumet, Ugines, se&nbsp;špičatými kostely, jako hromádky hraček – ach, vzpomínka na&nbsp;dávno minulé dětství!
 Ó budovatelské sny nad Kotvovými stavebnicemi!
 
 Zatím poručík Bobinet… Avšak nikoliv.
-Vzdejme se pokusu psychologizovat veliké muže a vyslovit zárodečný vznik titánských myšlenek.
-Nedovedeme toho, a kdybychom to dovedli, byli bychom snad zklamáni.
-Představte si zkrátka, že takový malý poručík Bobinet sedí na Jehlách uprostřed hroutící se
-Evropy, má za sebou baterii horských děl a pod sebou droboučký svět, který by se dal odtud shora pohodlně rozstřílet, a že ve starém čísle annecyského Moniteura si právě přečetl úvodník, jímž nějaký pan Babillard volá po silné ruce kormidelníka, jenž by vyvedl loď Francie z šílené bouře k nové slávě a moci, a že tady, ve výši nad dva tisíce metrů, je čistý, bohaprostý vzduch, ve kterém se myslí jasně a volně; představte si to vše, a pochopíte, že pan poručík Bobinet, jak tu seděl na kameni, se zamyslil a pak napsal své ctihodné, scvrklé, bělovlasé mamince poněkud zmatené psaní, že
-<q>brzo uslyší o svém Toni</q>
-a že Toni má „nádhernou myšlenku“, načež dělal to a ono, v noci zdravě spal a ráno svolal vojáčky své baterie, svrhl starého neschopného setníka, získal četnickou stanici v Sallanches, vyhlásil napoleonsky stručně válku Absolutnu a šel zase spat; den nato rozstřílel Karburátor pekárny v Thônes, obsadil nádraží v Bonneville a zmocnil se velitelství v Annecy, tentokráte už vele třem tisícům mužů.
-Do týdne rozstřílel přes dvě stě Karburátorů a vedl patnáct tisíc bodáků a šavlí na Grenoble.
-Provolán velitelem Grenoblu, měl za sebou armádičku čtyřiceti tisíc mužů, načež sestupoval do údolí Rhônu, pečlivě očišťuje krajinu před sebou dalekonosnými děly ode všech atomových motorů.
-Na silnici k Chambéry zajal v autu ministra vojenství, který mu jel napravit hlavu.
-Den nato jmenoval jej ministr vojenství generálem, patrně zcela získán pro jeho plány. 1. dubna vyčištěn Lyon od Absolutna.
+Vzdejme se pokusu psychologizovat veliké muže a&nbsp;vyslovit zárodečný vznik titánských myšlenek.
+Nedovedeme toho, a&nbsp;kdybychom to dovedli, byli bychom snad zklamáni.
+Představte si zkrátka, že&nbsp;takový malý poručík Bobinet sedí na&nbsp;Jehlách uprostřed hroutící se
+Evropy, má&nbsp;za&nbsp;sebou baterii horských děl a&nbsp;pod sebou droboučký svět, který by se dal odtud shora pohodlně rozstřílet, a&nbsp;že&nbsp;ve&nbsp;starém čísle annecyského Moniteura si právě přečetl úvodník, jímž nějaký pan Babillard volá po&nbsp;silné ruce kormidelníka, jenž by vyvedl loď Francie z&nbsp;šílené bouře k&nbsp;nové slávě a&nbsp;moci, a&nbsp;že&nbsp;tady, ve&nbsp;výši nad dva tisíce metrů, je&nbsp;čistý, bohaprostý vzduch, ve&nbsp;kterém se myslí jasně a&nbsp;volně; představte si to vše, a&nbsp;pochopíte, že&nbsp;pan poručík Bobinet, jak&nbsp;tu seděl na&nbsp;kameni, se&nbsp;zamyslil a&nbsp;pak napsal své ctihodné, scvrklé, bělovlasé mamince poněkud zmatené psaní, že
+<q>brzo uslyší o&nbsp;svém Toni</q>
+a&nbsp;že&nbsp;Toni má „nádhernou myšlenku“, načež dělal to a&nbsp;ono, v&nbsp;noci zdravě spal a&nbsp;ráno svolal vojáčky své baterie, svrhl starého neschopného setníka, získal četnickou stanici v&nbsp;Sallanches, vyhlásil napoleonsky stručně válku Absolutnu a&nbsp;šel zase spat; den nato rozstřílel Karburátor pekárny v&nbsp;Thônes, obsadil nádraží v&nbsp;Bonneville a&nbsp;zmocnil se velitelství v&nbsp;Annecy, tentokráte už&nbsp;vele třem tisícům mužů.
+Do&nbsp;týdne rozstřílel přes dvě stě Karburátorů a&nbsp;vedl patnáct tisíc bodáků a&nbsp;šavlí na&nbsp;Grenoble.
+Provolán velitelem Grenoblu, měl&nbsp;za&nbsp;sebou armádičku čtyřiceti tisíc mužů, načež sestupoval do&nbsp;údolí Rhônu, pečlivě očišťuje krajinu před sebou dalekonosnými děly ode všech atomových motorů.
+Na&nbsp;silnici k&nbsp;Chambéry zajal v&nbsp;autu ministra vojenství, který mu jel napravit hlavu.
+Den nato jmenoval jej ministr vojenství generálem, patrně zcela získán pro jeho plány. 1.&nbsp;dubna vyčištěn Lyon od&nbsp;Absolutna.
 
-Bobinetův vítězný postup dál se až dotud bez velkého krveprolití.
-Teprve za Loirou se stavěli na odpor hlavně horliví katolíci a místy došlo k velikým řežím.
-Naštěstí pro Bobineta i v obcích zcela zachvácených Absolutnem zůstali mnozí Francouzové skeptiky, ba naopak projevili divoký fanatism skeptičnosti a osvícenství.
-Po nastalých masakrech a nových bartolomějských nocích byli
+Bobinetův vítězný postup dál se až&nbsp;dotud bez velkého krveprolití.
+Teprve za&nbsp;Loirou se stavěli na&nbsp;odpor hlavně horliví katolíci a&nbsp;místy došlo k&nbsp;velikým řežím.
+Naštěstí pro Bobineta i&nbsp;v&nbsp;obcích zcela zachvácených Absolutnem zůstali mnozí Francouzové skeptiky, ba&nbsp;naopak projevili divoký fanatism skeptičnosti a&nbsp;osvícenství.
+Po&nbsp;nastalých masakrech a&nbsp;nových bartolomějských nocích byli
 <q>les Bobinets</q>
-vítáni jako osvoboditelé, a skutečně všude, kam přišli, docílili postupného uklidnění, když rozbili všechny Karburátory.
+vítáni jako osvoboditelé, a&nbsp;skutečně všude, kam&nbsp;přišli, docílili postupného uklidnění, když rozbili všechny Karburátory.
 
-A tak už v červenci vyslovil parlament, že „Toni Bobinet se dobře zasloužil o vlast“, a odevzdal mu s titulem maršála hodnost Prvního Konzula.
+A&nbsp;tak už&nbsp;v&nbsp;červenci vyslovil parlament, že&nbsp;„Toni Bobinet se dobře zasloužil o&nbsp;vlast“, a&nbsp;odevzdal mu s&nbsp;titulem maršála hodnost Prvního Konzula.
 Francie byla konsolidována.
-Bobinet zavedl státní ateism; jakýkoliv náboženský projev trestán smrtí podle válečného práva.
+Bobinet zavedl státní ateism; jakýkoliv náboženský projev trestán smrtí podle válečného&nbsp;práva.
 
-Nelze přejít mlčením některé scény ze života velkého muže.
+Nelze přejít mlčením některé scény ze&nbsp;života velkého&nbsp;muže.
 
-Bobinet a jeho matka.
-Jednoho dne ve Versailles radil se
-Bobinet s generalitou.
-Poněvadž bylo horko, postavil se u otevřeného okna; náhle spatřil v parku stařičkou paní, hřející se na slunci.
-Tu přerušil Bobinet maršála Jolliveta a zvolal:
+Bobinet a&nbsp;jeho matka.
+Jednoho dne ve&nbsp;Versailles radil se
+Bobinet s&nbsp;generalitou.
+Poněvadž bylo horko, postavil se u&nbsp;otevřeného okna; náhle spatřil v&nbsp;parku stařičkou paní, hřející se na&nbsp;slunci.
+Tu přerušil Bobinet maršála Jolliveta a&nbsp;zvolal:
 <q>Hle, pánové, moje matka…!</q>
-Všichni přítomní, ano i otužilí generálové zaslzeli nad tímto projevem synovské lásky.
+Všichni přítomní, ano&nbsp;i&nbsp;otužilí generálové zaslzeli nad tímto projevem synovské&nbsp;lásky.
 
-Bobinet a láska k vlasti.
-Kdysi byl Bobinet za deště přítomen přehlídce vojska na Polích Martových.
-Když defilovaly těžké agregáty dělostřelecké, najelo vojenské auto do veliké kaluže vody, jež vytryskla a potřísnila plášť Bobinetův.
-Maršál Jollivet chtěl na místě potrestati velitele nešťastné baterie degradací.
+Bobinet a&nbsp;láska k&nbsp;vlasti.
+Kdysi byl Bobinet za&nbsp;deště přítomen přehlídce vojska na&nbsp;Polích Martových.
+Když defilovaly těžké agregáty dělostřelecké, najelo vojenské auto do&nbsp;veliké kaluže vody, jež&nbsp;vytryskla a&nbsp;potřísnila plášť Bobinetův.
+Maršál Jollivet chtěl na&nbsp;místě potrestati velitele nešťastné baterie degradací.
 Avšak Bobinet jej zadržel:
 <q>Nechte, maršálku; vždyť je to bláto francouzské.</q>
 
 {{< ilu num="14" alt="">}}
 
-Bobinet a invalida.
-Jednou zajel Bobinet nepoznán do Chartres.
-Cestou praskla pneumatika, a zatímco ji řidič vyměňoval, přiblížil se jednonohý invalida a žebral.
-<q>Kde přišel ten člověk o nohu?</q>
+Bobinet a&nbsp;invalida.
+Jednou zajel Bobinet nepoznán do&nbsp;Chartres.
+Cestou praskla pneumatika, a&nbsp;zatímco ji řidič vyměňoval, přiblížil se jednonohý invalida a&nbsp;žebral.
+<q>Kde přišel ten člověk o&nbsp;nohu?</q>
 tázal se Bobinet.
-Invalida vypravoval, že ji ztratil jako voják v Indočíně a že má chudičkou matku a často že po celé dny nemají oba co dát do úst.
+Invalida vypravoval, že&nbsp;ji ztratil jako voják v&nbsp;Indočíně a&nbsp;že&nbsp;má chudičkou matku a&nbsp;často že&nbsp;po&nbsp;celé dny nemají oba co dát do&nbsp;úst.
 <q>Maršálku, poznamenejte si toho muže,</q> řekl Bobinet dojat.
-A skutečně za týden zaklepal na dveře chatrče invalidovy osobní kurýr Bobinetův a odevzdal ubohému mrzákovi balíček „od Prvního Konzula“.
-Kdo vylíčí radostný úžas invalidův, když otevřev balíček našel v něm bronzovou medalii!
+A&nbsp;skutečně za&nbsp;týden zaklepal na&nbsp;dveře chatrče invalidovy osobní kurýr Bobinetův a&nbsp;odevzdal ubohému mrzákovi balíček „od&nbsp;Prvního Konzula“.
+Kdo vylíčí radostný úžas invalidův, když otevřev balíček našel v&nbsp;něm bronzovou&nbsp;medalii!
 
 Při těchto výtečných vlastnostech duševních není divu, že
-Bobinet konečně se uvolil vyhovět horoucí touze všeho lidu a prohlásil se za obecného nadšení dne 14. srpna císařem francouzským.
+Bobinet konečně se uvolil vyhovět horoucí touze všeho lidu a&nbsp;prohlásil se za&nbsp;obecného nadšení dne 14.&nbsp;srpna císařem francouzským.
 
-Tehdy zajisté nastávaly pro celou zeměkouli doby velmi nepokojné, ale také dějinně velkolepé.
+Tehdy zajisté nastávaly pro celou zeměkouli doby velmi nepokojné, ale&nbsp;také dějinně velkolepé.
 Všechny zemědíly se doslovně skvěly hrdinnými činy válečnými.
-Pozorována z Martu, rozzářila se jistě naše Země jako hvězda první velikosti, z čehož asi martští hvězdáři soudili, že se nalézáme ještě ve stavu žhavém.
-I pochopíte, že rytířská Francie a její představitel, císař Toni Bobinet, nezůstali pozadu.
-Snad také tu působily zbytky Absolutna, pokud nevyprchaly do světového prostoru, vzbouzejíce povznesenou a ohnivou náladu.
-Krátce, když dva dny po své korunovaci prohlásil Veliký Císař, že přišla hodina, aby Francie pokryla zeměkouli svými korouhvemi, odpověděl mu jednomyslný výkřik nadšení.
+Pozorována z&nbsp;Martu, rozzářila se jistě naše Země jako hvězda první velikosti, z&nbsp;čehož asi martští hvězdáři soudili, že&nbsp;se nalézáme ještě ve&nbsp;stavu žhavém.
+I&nbsp;pochopíte, že&nbsp;rytířská Francie a&nbsp;její představitel, císař Toni Bobinet, nezůstali pozadu.
+Snad také tu působily zbytky Absolutna, pokud nevyprchaly do&nbsp;světového prostoru, vzbouzejíce povznesenou a&nbsp;ohnivou náladu.
+Krátce, když dva dny po&nbsp;své korunovaci prohlásil Veliký Císař, že&nbsp;přišla hodina, aby&nbsp;Francie pokryla zeměkouli svými korouhvemi, odpověděl mu jednomyslný výkřik&nbsp;nadšení.
 
-Plán Bobinetův byl tento:
+Plán Bobinetův byl&nbsp;tento:
 
-1. obsadit Španělsko a dobytím Gibraltaru získati klíč k Středozemnímu moři;
-2. obsadit dunajské údolí až po Pešť jakožto klíč evropského vnitrozemí;
-3. obsadit Dánsko jakožto klíč k severnímu pomoří.
+1.&nbsp;obsadit Španělsko a&nbsp;dobytím Gibraltaru získati klíč k&nbsp;Středozemnímu moři;
+2.&nbsp;obsadit dunajské údolí až&nbsp;po&nbsp;Pešť jakožto klíč evropského vnitrozemí;
+3.&nbsp;obsadit Dánsko jakožto klíč k&nbsp;severnímu&nbsp;pomoří.
 
-A protože územní klíče se obyčejně musejí namazat krví, vypravila Francie tři armády, jež jí získaly vesměs ohromné slávy.
+A&nbsp;protože územní klíče se obyčejně musejí namazat krví, vypravila Francie tři armády, jež&nbsp;jí získaly vesměs ohromné&nbsp;slávy.
 
-Čtvrtá armáda obsadila Malou Asii jakožto klíč k Východu.
+Čtvrtá armáda obsadila Malou Asii jakožto klíč k&nbsp;Východu.
 
-Pátá se zmocnila ústí řeky sv. Vavřince jakožto klíče k Americe.
+Pátá se zmocnila ústí řeky sv.&nbsp;Vavřince jakožto klíče k&nbsp;Americe.
 
-Šestá se potopila v námořní bitvě u břehů anglických.
+Šestá se potopila v&nbsp;námořní bitvě u&nbsp;břehů anglických.
 
 Sedmá oblehla Sevastopol.
 
-Na Silvestra roku 1944 měl císař Bobinet všechny klíče v kapse svých dělostřeleckých kalhot.
+Na&nbsp;Silvestra roku 1944 měl císař Bobinet všechny klíče v&nbsp;kapse svých dělostřeleckých kalhot.

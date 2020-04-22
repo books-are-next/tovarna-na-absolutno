@@ -1,17 +1,17 @@
 ---
-title: Život a doba spisovatele Karla Čapka v datech
+title: Život a&nbsp;doba spisovatele Karla Čapka v&nbsp;datech
 ---
 
 ### 1890
 
-Narozen 9. 1. v&nbsp;Malých Svatoňovicích.
+Narozen 9.&nbsp;1. v&nbsp;Malých Svatoňovicích.
 Otec MuDr. Antonín Čapek (1855-1929), matka Božena, rozená Novotná (1866-1924).
-Sourozenci: Helena (1886-1961), provdaná Koželuhová, ovdověla, od roku 1930 provdaná Palivcová;
-Josef (1887-1945) ženatý od roku 1919.
+Sourozenci: Helena (1886-1961), provdaná Koželuhová, ovdověla, od&nbsp;roku 1930 provdaná Palivcová;
+Josef (1887-1945) ženatý od&nbsp;roku&nbsp;1919.
 
 ### 1895-1901
 
-V&nbsp;Úpici, kde rodina bydlí, navštěvuje obecnou školu a jednu třídu měšťanské školy.
+V&nbsp;Úpici, kde&nbsp;rodina bydlí, navštěvuje obecnou školu a&nbsp;jednu třídu měšťanské&nbsp;školy.
 
 ### 1901-1909
 
@@ -19,47 +19,47 @@ Středoškolská studia začíná v&nbsp;Hradci Králové, posléze pokračuje v
 
 ### 1907
 
-Rodina se stěhuje z&nbsp;Úpice do Prahy.
+Rodina se stěhuje z&nbsp;Úpice do&nbsp;Prahy.
 
 ### 1909-1915
 
-Studuje na Filozofické fakultě Univerzity Karlovy filozofii, estetiku, dějiny výtvarného umění, anglistiku, germanistiku a bohemistiku.
-(V letech 1910-1911 studuje v&nbsp;Berlíně a v&nbsp;Paříži.)
-V&nbsp;listopadu 1915 je promován na doktora filozofie.
+Studuje na&nbsp;Filozofické fakultě Univerzity Karlovy filozofii, estetiku, dějiny výtvarného umění, anglistiku, germanistiku a&nbsp;bohemistiku.
+(V&nbsp;letech 1910-1911 studuje v&nbsp;Berlíně a&nbsp;v&nbsp;Paříži.)
+V&nbsp;listopadu 1915 je promován na&nbsp;doktora filozofie.
 
 ### 1917
 
-Působí jako domácí učitel Prokopa Lažanského na zámku v&nbsp;Chyších u Žlutic.
-V&nbsp;říjnu nastupuje do redakce Národních listů.
+Působí jako domácí učitel Prokopa Lažanského na&nbsp;zámku v&nbsp;Chyších u&nbsp;Žlutic.
+V&nbsp;říjnu nastupuje do&nbsp;redakce Národních&nbsp;listů.
 
 ### 1921-1938
 
-Je členem pražské redakce Lidových novin, v&nbsp;letech 1921-1923 pracuje v&nbsp;Městském divadle na Královských Vinohradech jako dramaturg a režisér.
+Je členem pražské redakce Lidových novin, v&nbsp;letech 1921-1923 pracuje v&nbsp;Městském divadle na&nbsp;Královských Vinohradech jako dramaturg a&nbsp;režisér.
 
 ### 1922
 
-Poprvé představen presidentu T.G. Masarykovi.
+Poprvé představen presidentu T.G.&nbsp;Masarykovi.
 
 ### 1925
 
 Je zvolen předsedou československé odbočky Penklubu, kterou pomáhá založit.
-Stěhuje se s&nbsp;bratrem Josefem do nového domu na Vinohradech.
+Stěhuje se s&nbsp;bratrem Josefem do&nbsp;nového domu na&nbsp;Vinohradech.
 
 ### 1931
 
-Jmenován členem mezinárodního výboru pro duševní spolupráci Společnosti národů (stálý výbor pro literaturu a umění).
+Jmenován členem mezinárodního výboru pro duševní spolupráci Společnosti národů (stálý výbor pro literaturu a&nbsp;umění).
 
 ### 1933
 
-Pracuje ve Výboru pro pomoc německým uprchlíkům, je místopředsedou Penklubu.
+Pracuje ve&nbsp;Výboru pro pomoc německým uprchlíkům, je&nbsp;místopředsedou Penklubu.
 
 ### 1934
 
-Organizuje pomocnou sociální akci Demokracie dětem.
+Organizuje pomocnou sociální akci Demokracie&nbsp;dětem.
 
 ### 1935
 
-Žení se s&nbsp;Olgou Scheinpflugovou, počátky stavebních úprav domu ve Strži, který novomanželé dostali od Václava Palivce do doživotního užívání.
+Žení se s&nbsp;Olgou Scheinpflugovou, počátky stavebních úprav domu ve&nbsp;Strži, který novomanželé dostali od&nbsp;Václava Palivce do&nbsp;doživotního&nbsp;užívání.
 
 ### 1937
 
@@ -67,13 +67,13 @@ Organizuje pomocnou sociální akci Demokracie dětem.
 
 ### 1938
 
-Podílí se na organizaci světového kongresu Penklubů v&nbsp;Praze.
-Opakovaně je navrhován na Nobelovu cenu za literaturu.
-Po mnichovské konferenci (29. — 30. 9. 1938) čelí nenávistné kampani, bojuje s&nbsp;českým fašismem a prožívá nejtěžší období svého života.
-Umírá 25. 12. na zápal plic.
-Pohřeb na Vyšehradě se koná 29. 12.
+Podílí se na&nbsp;organizaci světového kongresu Penklubů v&nbsp;Praze.
+Opakovaně je navrhován na&nbsp;Nobelovu cenu za&nbsp;literaturu.
+Po&nbsp;mnichovské konferenci (29. — 30.&nbsp;9. 1938) čelí nenávistné kampani, bojuje s&nbsp;českým fašismem a&nbsp;prožívá nejtěžší období svého života.
+Umírá 25.&nbsp;12.&nbsp;na&nbsp;zápal plic.
+Pohřeb na&nbsp;Vyšehradě se koná 29.&nbsp;12.
 
-## První vydání knih Karla Čapka
+## První vydání knih Karla&nbsp;Čapka
 
 - 1917
   - Boží muka
@@ -87,11 +87,11 @@ Pohřeb na Vyšehradě se koná 29. 12.
   - RUR
 - 1921
   - Trapné povídky
-  - Ze života hmyzu (společně s Josefem Čapkem)
+  - Ze&nbsp;života hmyzu (společně s&nbsp;Josefem Čapkem)
 - 1922
-  - Lásky hra osudná (společně s Josefem Čapkem)
-  - Zářivé hlubiny a jiné prózy
-  - Továrna na absolutno
+  - Lásky hra osudná (společně s&nbsp;Josefem Čapkem)
+  - Zářivé hlubiny a&nbsp;jiné prózy
+  - Továrna na&nbsp;absolutno
   - Věc Makropolus
 - 1923
   - Italské listy
@@ -99,27 +99,27 @@ Pohřeb na Vyšehradě se koná 29. 12.
   - Krakatit
   - Anglické listy
 - 1925
-  - Jak vzniká divadelní hra a průvodce po zákulisí
-  - O nejbližších věcech
+  - Jak vzniká divadelní hra a&nbsp;průvodce po&nbsp;zákulisí
+  - O&nbsp;nejbližších věcech
 - 1927
   - Adam stvořitel
   - Skandální aféra Josefa Holouška
 - 1928
-  - Hovory s T.G.M. (1. díl)
+  - Hovory s&nbsp;T.G.M.&nbsp;(1.&nbsp;díl)
 - 1929
-  - Povídky z jedné kapsy
-  - Povídky z druhé kapsy
+  - Povídky z&nbsp;jedné kapsy
+  - Povídky z&nbsp;druhé kapsy
   - Zahradníkův rok
 - 1930
-  - Výlet do Španěl
+  - Výlet do&nbsp;Španěl
 - 1931
-  - Hovory s T.G.M. (2. díl)
-  - Marsyas čili na okraji literatury
+  - Hovory s&nbsp;T.G.M.&nbsp;(2.&nbsp;díl)
+  - Marsyas čili na&nbsp;okraji literatury
 - 1932
-  - Devatero pohádek a ještě jedna od Josefa Čapka jako přívažek
-  - Obrázky z Holandska
+  - Devatero pohádek a&nbsp;ještě jedna od&nbsp;Josefa Čapka jako přívažek
+  - Obrázky z&nbsp;Holandska
   - Apokryfy
-  - O věcech obecných čili zoon politikon
+  - O&nbsp;věcech obecných čili zoon politikon
 - 1933
   - Dášenka čili život štěněte
   - Hordubal
@@ -127,11 +127,11 @@ Pohřeb na Vyšehradě se koná 29. 12.
   - Povětroň
   - Obyčejný život
 - 1935
-  - Hovory s T.G.M. (3. díl)
-  - Mlčení s T. G. Masarykem
+  - Hovory s&nbsp;T.G.M.&nbsp;(3.&nbsp;díl)
+  - Mlčení s&nbsp;T.&nbsp;G.&nbsp;Masarykem
 - 1936
-  - Válka s mloky
-  - Cesta na sever
+  - Válka s&nbsp;mloky
+  - Cesta na&nbsp;sever
 - 1937
   - Bílá nemoc
   - Jak se dělají noviny
@@ -140,4 +140,4 @@ Pohřeb na Vyšehradě se koná 29. 12.
   - Matka
   - Jak se co dělá
 - 1939
-  - posmrtně - Život a dílo skladatele Foltýna (torzo románu)
+  - posmrtně - Život a&nbsp;dílo skladatele Foltýna (torzo románu)

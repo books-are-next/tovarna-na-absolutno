@@ -1,4 +1,4 @@
 ---
-title: Továrna na absolutno
+title: Továrna na&nbsp;absolutno
 author: Karel Čapek
 ---
