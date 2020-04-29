@@ -174,7 +174,7 @@ Ale představ si, že&nbsp;dejme tomu opravdu v&nbsp;každé hmotě je Bůh, že
 A&nbsp;když tu hmotu nadobro rozbiješ, vyletí ven jako ze&nbsp;škatulky.
 Je najednou jako odvázaný.
 Vyvine se z&nbsp;hmoty, jako se vyvine svítiplyn z&nbsp;uhlí.
-Spálíš jeden atom, a&nbsp;máš najednou plny sklep Absolutna.
+Spálíš jeden atom, a&nbsp;máš najednou plný sklep Absolutna.
 To ti je úžasné, jak&nbsp;se to hned rozprostraní.</q>
 
 <q>Počkej,</q> ozval se pan Bondy.
