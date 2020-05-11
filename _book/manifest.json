@@ -1,0 +1,712 @@
+{
+  "author": "Karel Čapek",
+  "keywords": [],
+  "published": 2020,
+  "title": "Továrna na absolutno",
+  "identifier": "capek-tovarna-na-absolutno-2020-424b7b5",
+  "revision": "424b7b5",
+  "generatedAt": {
+    "date": "Fri Apr 24 2020 08:34:28 GMT+0200 (Central European Summer Time)",
+    "unix": 1587710068694
+  },
+  "documents": [
+    {
+      "title": "Předmluva",
+      "file": "01-predmluva.html",
+      "words": 577,
+      "chars": 3358,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "02-kapitola-i-inzerat.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Inzerát",
+      "file": "02-kapitola-i-inzerat.html",
+      "words": 977,
+      "chars": 5781,
+      "ideas": 102,
+      "role": "chapter",
+      "order": 1,
+      "prev": "01-predmluva.html",
+      "next": "03-kapitola-ii-karburator.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Inzerát",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karburátor",
+      "file": "03-kapitola-ii-karburator.html",
+      "words": 1172,
+      "chars": 6938,
+      "ideas": 110,
+      "role": "chapter",
+      "order": 2,
+      "prev": "02-kapitola-i-inzerat.html",
+      "next": "04-kapitola-iii-panteismus.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Karburátor",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Panteismus",
+      "file": "04-kapitola-iii-panteismus.html",
+      "words": 1325,
+      "chars": 7528,
+      "ideas": 94,
+      "role": "chapter",
+      "order": 3,
+      "prev": "03-kapitola-ii-karburator.html",
+      "next": "05-kapitola-iv-bozsky-sklep.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Panteismus",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božský sklep",
+      "file": "05-kapitola-iv-bozsky-sklep.html",
+      "words": 1316,
+      "chars": 7946,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 4,
+      "prev": "04-kapitola-iii-panteismus.html",
+      "next": "06-kapitola-v-svetici-biskup.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Božský sklep",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Světící biskup",
+      "file": "06-kapitola-v-svetici-biskup.html",
+      "words": 1494,
+      "chars": 9211,
+      "ideas": 130,
+      "role": "chapter",
+      "order": 5,
+      "prev": "05-kapitola-iv-bozsky-sklep.html",
+      "next": "07-kapitola-vi-meas.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Světící biskup",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MEAS",
+      "file": "07-kapitola-vi-meas.html",
+      "words": 1185,
+      "chars": 7228,
+      "ideas": 100,
+      "role": "chapter",
+      "order": 6,
+      "prev": "06-kapitola-v-svetici-biskup.html",
+      "next": "08-kapitola-vii-go-on.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MEAS",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Go on!",
+      "file": "08-kapitola-vii-go-on.html",
+      "words": 911,
+      "chars": 5927,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 7,
+      "prev": "07-kapitola-vi-meas.html",
+      "next": "09-kapitola-viii-na-bagru.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Go on!",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na&nbsp;bagru",
+      "file": "09-kapitola-viii-na-bagru.html",
+      "words": 1841,
+      "chars": 10209,
+      "ideas": 180,
+      "role": "chapter",
+      "order": 8,
+      "prev": "08-kapitola-vii-go-on.html",
+      "next": "10-kapitola-ix-slavnost.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na bagru",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slavnost",
+      "file": "10-kapitola-ix-slavnost.html",
+      "words": 1201,
+      "chars": 7438,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 9,
+      "prev": "09-kapitola-viii-na-bagru.html",
+      "next": "11-kapitola-x-svata-elen.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slavnost",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svatá elen",
+      "file": "11-kapitola-x-svata-elen.html",
+      "words": 1168,
+      "chars": 6864,
+      "ideas": 123,
+      "role": "chapter",
+      "order": 10,
+      "prev": "10-kapitola-ix-slavnost.html",
+      "next": "12-kapitola-xi-prvni-srazka.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svatá elen",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První srážka",
+      "file": "12-kapitola-xi-prvni-srazka.html",
+      "words": 1405,
+      "chars": 8360,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 11,
+      "prev": "11-kapitola-x-svata-elen.html",
+      "next": "13-kapitola-xii-soukromy-docent.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První srážka",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Soukromý docent",
+      "file": "13-kapitola-xii-soukromy-docent.html",
+      "words": 1007,
+      "chars": 6689,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 12,
+      "prev": "12-kapitola-xi-prvni-srazka.html",
+      "next": "14-kapitola-xiii-omluva-kronikare.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Soukromý docent",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Omluva kronikáře",
+      "file": "14-kapitola-xiii-omluva-kronikare.html",
+      "words": 1077,
+      "chars": 6956,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 13,
+      "prev": "13-kapitola-xii-soukromy-docent.html",
+      "next": "15-kapitola-xiv-zeme-hojnosti.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Omluva kronikáře",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Země hojnosti",
+      "file": "15-kapitola-xiv-zeme-hojnosti.html",
+      "words": 1512,
+      "chars": 9853,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 14,
+      "prev": "14-kapitola-xiii-omluva-kronikare.html",
+      "next": "16-kapitola-xv-pohroma.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Země hojnosti",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohroma",
+      "file": "16-kapitola-xv-pohroma.html",
+      "words": 1416,
+      "chars": 8791,
+      "ideas": 94,
+      "role": "chapter",
+      "order": 15,
+      "prev": "15-kapitola-xiv-zeme-hojnosti.html",
+      "next": "17-kapitola-xvi-na-horach.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohroma",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na&nbsp;horách",
+      "file": "17-kapitola-xvi-na-horach.html",
+      "words": 1231,
+      "chars": 7118,
+      "ideas": 132,
+      "role": "chapter",
+      "order": 16,
+      "prev": "16-kapitola-xv-pohroma.html",
+      "next": "18-kapitola-xvii-kladivo-a-hvezda.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na horách",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kladivo a&nbsp;hvězda",
+      "file": "18-kapitola-xvii-kladivo-a-hvezda.html",
+      "words": 843,
+      "chars": 5608,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 17,
+      "prev": "17-kapitola-xvi-na-horach.html",
+      "next": "19-kapitola-xviii-v-nocni-redakci.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kladivo a hvězda",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V&nbsp;noční redakci",
+      "file": "19-kapitola-xviii-v-nocni-redakci.html",
+      "words": 1011,
+      "chars": 6378,
+      "ideas": 102,
+      "role": "chapter",
+      "order": 18,
+      "prev": "18-kapitola-xvii-kladivo-a-hvezda.html",
+      "next": "20-kapitola-xix-kanonizacni-proces.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V noční redakci",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kanonizační proces",
+      "file": "20-kapitola-xix-kanonizacni-proces.html",
+      "words": 914,
+      "chars": 6536,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 19,
+      "prev": "19-kapitola-xviii-v-nocni-redakci.html",
+      "next": "21-kapitola-xx-st-kilda.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kanonizační proces",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "St Kilda",
+      "file": "21-kapitola-xx-st-kilda.html",
+      "words": 1458,
+      "chars": 9219,
+      "ideas": 99,
+      "role": "chapter",
+      "order": 20,
+      "prev": "20-kapitola-xix-kanonizacni-proces.html",
+      "next": "22-kapitola-xxi-depese.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "St Kilda",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Depeše",
+      "file": "22-kapitola-xxi-depese.html",
+      "words": 1059,
+      "chars": 6053,
+      "ideas": 94,
+      "role": "chapter",
+      "order": 21,
+      "prev": "21-kapitola-xx-st-kilda.html",
+      "next": "23-kapitola-xxii-stary-vlastenec.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Depeše",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Starý vlastenec",
+      "file": "23-kapitola-xxii-stary-vlastenec.html",
+      "words": 1223,
+      "chars": 7638,
+      "ideas": 86,
+      "role": "chapter",
+      "order": 22,
+      "prev": "22-kapitola-xxi-depese.html",
+      "next": "24-kapitola-xxiii-augsburska-zapletka.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Starý vlastenec",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Augsburská zápletka",
+      "file": "24-kapitola-xxiii-augsburska-zapletka.html",
+      "words": 1364,
+      "chars": 9081,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 23,
+      "prev": "23-kapitola-xxii-stary-vlastenec.html",
+      "next": "25-kapitola-xxiv-napoleon-horske-brigady.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Augsburská zápletka",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Napoleon horské brigády",
+      "file": "25-kapitola-xxiv-napoleon-horske-brigady.html",
+      "words": 972,
+      "chars": 6309,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 24,
+      "prev": "24-kapitola-xxiii-augsburska-zapletka.html",
+      "next": "26-kapitola-xxv-takzvana-nejvetsi-valka.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Napoleon horské brigády",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Takzvaná největší válka",
+      "file": "26-kapitola-xxv-takzvana-nejvetsi-valka.html",
+      "words": 1010,
+      "chars": 6461,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 25,
+      "prev": "25-kapitola-xxiv-napoleon-horske-brigady.html",
+      "next": "27-kapitola-xxvi-bitva-u-hradce-kralove.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Takzvaná největší válka",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bitva u&nbsp;Hradce Králové",
+      "file": "27-kapitola-xxvi-bitva-u-hradce-kralove.html",
+      "words": 1038,
+      "chars": 6611,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 26,
+      "prev": "26-kapitola-xxv-takzvana-nejvetsi-valka.html",
+      "next": "28-kapitola-xxvii-na-tichomorskem-atolu.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bitva u Hradce Králové",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na&nbsp;tichomořském atolu",
+      "file": "28-kapitola-xxvii-na-tichomorskem-atolu.html",
+      "words": 935,
+      "chars": 5430,
+      "ideas": 101,
+      "role": "chapter",
+      "order": 27,
+      "prev": "27-kapitola-xxvi-bitva-u-hradce-kralove.html",
+      "next": "29-kapitola-xxviii-u-sedmi-chalup.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na tichomořském atolu",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "U&nbsp;Sedmi Chalup",
+      "file": "29-kapitola-xxviii-u-sedmi-chalup.html",
+      "words": 884,
+      "chars": 4764,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 28,
+      "prev": "28-kapitola-xxvii-na-tichomorskem-atolu.html",
+      "next": "30-kapitola-xxix-posledni-bitva.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "U Sedmi Chalup",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poslední bitva",
+      "file": "30-kapitola-xxix-posledni-bitva.html",
+      "words": 965,
+      "chars": 5893,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 29,
+      "prev": "29-kapitola-xxviii-u-sedmi-chalup.html",
+      "next": "31-kapitola-xxx-konec-vsemu.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poslední bitva",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Konec všemu",
+      "file": "31-kapitola-xxx-konec-vsemu.html",
+      "words": 1015,
+      "chars": 5642,
+      "ideas": 109,
+      "role": "chapter",
+      "order": 30,
+      "prev": "30-kapitola-xxix-posledni-bitva.html",
+      "next": "32-zivot-a-doba-spisovatele-karla-capka-v-datech.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Konec všemu",
+          "id": "chunk2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Život a&nbsp;doba spisovatele Karla Čapka v&nbsp;datech",
+      "file": "32-zivot-a-doba-spisovatele-karla-capka-v-datech.html",
+      "words": 477,
+      "chars": 3059,
+      "ideas": 109,
+      "role": "chapter",
+      "order": 31,
+      "prev": "31-kapitola-xxx-konec-vsemu.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 16,
+              "level": 2,
+              "name": "První vydání knih Karla Čapka",
+              "id": "první-vydání-knih-karlanbspčapka",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 102,
+      "chars": 737,
+      "ideas": 5,
+      "role": "colophon",
+      "order": null,
+      "next": "01-predmluva.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Továrna na absolutno",
+      "file": "index.html",
+      "words": 5,
+      "chars": 30,
+      "ideas": 3,
+      "role": "index",
+      "order": null,
+      "next": "01-predmluva.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Karel Čapek\n    \nTovárna\n    \nna absolutno",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 36090,
+      "chars": 221644,
+      "ideas": 2818
+    },
+    "chapters": {
+      "words": 35983,
+      "chars": 220877,
+      "ideas": 2810
+    }
+  }
+}
