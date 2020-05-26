@@ -1,5 +1,5 @@
 ---
-title: Život a&nbsp;doba spisovatele Karla Čapka v&nbsp;datech
+title: Život a doba spisovatele Karla Čapka v datech
 ---
 
 ### 1890

@@ -1,6 +1,6 @@
 ---
 chapter: XVII
-title: Kladivo a&nbsp;hvězda
+title: Kladivo a hvězda
 ---
 
 <q>Bratře První Strážce, co&nbsp;vidíš na&nbsp;Východě?</q>

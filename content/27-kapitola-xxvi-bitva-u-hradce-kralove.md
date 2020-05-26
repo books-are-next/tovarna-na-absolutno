@@ -1,6 +1,6 @@
 ---
 chapter: XXVI
-title: Bitva u&nbsp;Hradce Králové
+title: Bitva u Hradce Králové
 ---
 
 Zde dovolává se kronikář Augusta Sedláčka, Josefa Pekaře a&nbsp;jiných autorit historiografických, že&nbsp;důležitým zdrojem pro poznání dějin jsou také místní děje, zrcadlící světové události jaksi v&nbsp;kapce&nbsp;vody.

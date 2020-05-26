@@ -1,6 +1,6 @@
 ---
 chapter: VIII
-title: Na&nbsp;bagru
+title: Na bagru
 ---
 
 Nad Štěchovicemi stál bagr ME 28 nehnutě ve&nbsp;večerním soumraku.

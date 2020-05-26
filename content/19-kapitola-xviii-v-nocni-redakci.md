@@ -1,6 +1,6 @@
 ---
 chapter: XVIII
-title: V&nbsp;noční redakci
+title: V noční redakci
 ---
 
 Největší katolický čili lidový žurnál Přítel lidu neměl redakci tuze početnou; a&nbsp;tak o&nbsp;půl desáté večer seděl tam jen noční redaktor

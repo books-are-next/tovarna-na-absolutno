@@ -1,6 +1,6 @@
 ---
 chapter: XXVII
-title: Na&nbsp;tichomořském atolu
+title: Na tichomořském atolu
 ---
 
 <q>Ať&nbsp;mne čert,</q> řekl kapitán Trouble, <q>není-li tamten čahoun jejich vůdcem.</q>

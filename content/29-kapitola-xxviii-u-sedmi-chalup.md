@@ -1,6 +1,6 @@
 ---
 chapter: XXVIII
-title: U&nbsp;Sedmi Chalup
+title: U Sedmi Chalup
 ---
 
 A&nbsp;zatímco se armády světodějně bijí, co&nbsp;se hranice států hýbají jako žížaly a&nbsp;celý svět se hroutí v&nbsp;rumiště, škrabe stará paní Blahoušová v&nbsp;Sedmi Chalupách brambory, děda Blahouš sedí na&nbsp;prahu a&nbsp;kouří bukové listí a&nbsp;sousedka Prouzová, opřena o&nbsp;plot, opakuje zamyšleně:

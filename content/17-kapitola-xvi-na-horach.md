@@ -1,6 +1,6 @@
 ---
 chapter: XVI
-title: Na&nbsp;horách
+title: Na horách
 ---
 
 Poledne na&nbsp;boudě v&nbsp;Medvědím důle.
