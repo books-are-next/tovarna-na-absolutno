@@ -82,3 +82,41 @@
     margin: 1rem 0;
   }
 }
+
+.nb-toc {
+  li {
+    margin-bottom: calc(var(--ui-font-size) / 4);
+  }
+
+  ul {
+    padding-left: calc(var(--ui-font-size) * 5);
+  }
+
+  ol {
+    padding-left: 0;
+    counter-reset: section;
+    list-style-type: none;
+
+    li {
+      text-indent: calc(var(--ui-font-size) * -5);
+      padding-left: calc(var(--ui-font-size) * 5);
+    }
+
+    li::before {
+      counter-increment: section;
+      content: "kapitola " counter(section);
+
+      display: inline-block;
+      width: calc(var(--ui-font-size) * 5);
+      text-indent: 0;
+      font-size: 90%;
+    }
+  }
+}
+
+.nb-toc,
+.nb-toc-other {
+  a {
+    font-family: var(--heading-font);
+  }
+}
