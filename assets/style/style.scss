@@ -85,11 +85,11 @@
 
 .nb-toc {
   li {
-    margin-bottom: calc(var(--ui-font-size) / 4);
+    margin-bottom: 0.25rem;
   }
 
   ul {
-    padding-left: calc(var(--ui-font-size) * 5);
+    padding-left: 5rem;
   }
 
   ol {
@@ -98,8 +98,8 @@
     list-style-type: none;
 
     li {
-      text-indent: calc(var(--ui-font-size) * -5);
-      padding-left: calc(var(--ui-font-size) * 5);
+      text-indent: -5rem;
+      padding-left: 5rem;
     }
 
     li::before {
@@ -107,9 +107,9 @@
       content: "kapitola " counter(section);
 
       display: inline-block;
-      width: calc(var(--ui-font-size) * 5);
+      width: 5rem;
       text-indent: 0;
-      font-size: 90%;
+      font-size: 80%;
     }
   }
 }
