@@ -3,20 +3,20 @@
   "keywords": [],
   "published": 2020,
   "title": "Továrna na absolutno",
-  "slug": "capek-tovarna-na-absolutno-2020-4264d90",
-  "revision": "4264d90",
+  "identifier": "capek-tovarna-na-absolutno-2020-9d99f65",
+  "revision": "9d99f65",
   "generatedAt": {
-    "date": "Fri Jun 26 2020 08:57:33 GMT+0200 (Central European Summer Time)",
-    "unix": 1593154653433
+    "date": "Fri Jun 26 2020 13:12:34 GMT+0200 (Central European Summer Time)",
+    "unix": 1593169954652
   },
   "documents": [
     {
       "title": "Předmluva",
       "file": "01-predmluva.html",
-      "words": 647,
-      "chars": 3798,
-      "ideas": 60,
-      "isChapter": true,
+      "words": 577,
+      "chars": 3358,
+      "ideas": 28,
+      "role": "chapter",
       "order": 0,
       "prev": null,
       "next": "02-kapitola-i-inzerat.html",
@@ -25,7 +25,7 @@
           "index": 0,
           "level": 1,
           "name": "Předmluva",
-          "id": "chunk33",
+          "id": "chunk1",
           "children": []
         }
       ]
@@ -33,10 +33,10 @@
     {
       "title": "Inzerát",
       "file": "02-kapitola-i-inzerat.html",
-      "words": 1047,
-      "chars": 6221,
-      "ideas": 134,
-      "isChapter": true,
+      "words": 1102,
+      "chars": 6454,
+      "ideas": 144,
+      "role": "chapter",
       "order": 1,
       "prev": "01-predmluva.html",
       "next": "03-kapitola-ii-karburator.html",
@@ -45,7 +45,7 @@
           "index": 0,
           "level": 1,
           "name": "Inzerát",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -53,10 +53,10 @@
     {
       "title": "Karburátor",
       "file": "03-kapitola-ii-karburator.html",
-      "words": 1242,
-      "chars": 7378,
-      "ideas": 142,
-      "isChapter": true,
+      "words": 1301,
+      "chars": 7660,
+      "ideas": 165,
+      "role": "chapter",
       "order": 2,
       "prev": "02-kapitola-i-inzerat.html",
       "next": "04-kapitola-iii-panteismus.html",
@@ -65,7 +65,7 @@
           "index": 0,
           "level": 1,
           "name": "Karburátor",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -73,10 +73,10 @@
     {
       "title": "Panteismus",
       "file": "04-kapitola-iii-panteismus.html",
-      "words": 1395,
-      "chars": 7968,
-      "ideas": 126,
-      "isChapter": true,
+      "words": 1343,
+      "chars": 7525,
+      "ideas": 169,
+      "role": "chapter",
       "order": 3,
       "prev": "03-kapitola-ii-karburator.html",
       "next": "05-kapitola-iv-bozsky-sklep.html",
@@ -85,7 +85,7 @@
           "index": 0,
           "level": 1,
           "name": "Panteismus",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -93,10 +93,10 @@
     {
       "title": "Božský sklep",
       "file": "05-kapitola-iv-bozsky-sklep.html",
-      "words": 1386,
-      "chars": 8386,
-      "ideas": 117,
-      "isChapter": true,
+      "words": 1324,
+      "chars": 7876,
+      "ideas": 163,
+      "role": "chapter",
       "order": 4,
       "prev": "04-kapitola-iii-panteismus.html",
       "next": "06-kapitola-v-svetici-biskup.html",
@@ -105,7 +105,7 @@
           "index": 0,
           "level": 1,
           "name": "Božský sklep",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -113,10 +113,10 @@
     {
       "title": "Světící biskup",
       "file": "06-kapitola-v-svetici-biskup.html",
-      "words": 1564,
-      "chars": 9651,
-      "ideas": 162,
-      "isChapter": true,
+      "words": 1516,
+      "chars": 9228,
+      "ideas": 193,
+      "role": "chapter",
       "order": 5,
       "prev": "05-kapitola-iv-bozsky-sklep.html",
       "next": "07-kapitola-vi-meas.html",
@@ -125,7 +125,7 @@
           "index": 0,
           "level": 1,
           "name": "Světící biskup",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -133,10 +133,10 @@
     {
       "title": "MEAS",
       "file": "07-kapitola-vi-meas.html",
-      "words": 1255,
-      "chars": 7668,
-      "ideas": 132,
-      "isChapter": true,
+      "words": 1222,
+      "chars": 7358,
+      "ideas": 179,
+      "role": "chapter",
       "order": 6,
       "prev": "06-kapitola-v-svetici-biskup.html",
       "next": "08-kapitola-vii-go-on.html",
@@ -145,7 +145,7 @@
           "index": 0,
           "level": 1,
           "name": "MEAS",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -153,10 +153,10 @@
     {
       "title": "Go on!",
       "file": "08-kapitola-vii-go-on.html",
-      "words": 981,
-      "chars": 6367,
-      "ideas": 98,
-      "isChapter": true,
+      "words": 915,
+      "chars": 5849,
+      "ideas": 155,
+      "role": "chapter",
       "order": 7,
       "prev": "07-kapitola-vi-meas.html",
       "next": "09-kapitola-viii-na-bagru.html",
@@ -165,7 +165,7 @@
           "index": 0,
           "level": 1,
           "name": "Go on!",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -173,10 +173,10 @@
     {
       "title": "Na bagru",
       "file": "09-kapitola-viii-na-bagru.html",
-      "words": 1911,
-      "chars": 10649,
-      "ideas": 212,
-      "isChapter": true,
+      "words": 1871,
+      "chars": 10270,
+      "ideas": 211,
+      "role": "chapter",
       "order": 8,
       "prev": "08-kapitola-vii-go-on.html",
       "next": "10-kapitola-ix-slavnost.html",
@@ -185,7 +185,7 @@
           "index": 0,
           "level": 1,
           "name": "Na bagru",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -193,10 +193,10 @@
     {
       "title": "Slavnost",
       "file": "10-kapitola-ix-slavnost.html",
-      "words": 1271,
-      "chars": 7878,
-      "ideas": 125,
-      "isChapter": true,
+      "words": 1210,
+      "chars": 7440,
+      "ideas": 119,
+      "role": "chapter",
       "order": 9,
       "prev": "09-kapitola-viii-na-bagru.html",
       "next": "11-kapitola-x-svata-elen.html",
@@ -205,7 +205,7 @@
           "index": 0,
           "level": 1,
           "name": "Slavnost",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -213,10 +213,10 @@
     {
       "title": "Svatá elen",
       "file": "11-kapitola-x-svata-elen.html",
-      "words": 1238,
-      "chars": 7304,
-      "ideas": 155,
-      "isChapter": true,
+      "words": 1173,
+      "chars": 6844,
+      "ideas": 148,
+      "role": "chapter",
       "order": 10,
       "prev": "10-kapitola-ix-slavnost.html",
       "next": "12-kapitola-xi-prvni-srazka.html",
@@ -225,7 +225,7 @@
           "index": 0,
           "level": 1,
           "name": "Svatá elen",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -233,10 +233,10 @@
     {
       "title": "První srážka",
       "file": "12-kapitola-xi-prvni-srazka.html",
-      "words": 1475,
-      "chars": 8800,
-      "ideas": 114,
-      "isChapter": true,
+      "words": 1421,
+      "chars": 8446,
+      "ideas": 89,
+      "role": "chapter",
       "order": 11,
       "prev": "11-kapitola-x-svata-elen.html",
       "next": "13-kapitola-xii-soukromy-docent.html",
@@ -245,7 +245,7 @@
           "index": 0,
           "level": 1,
           "name": "První srážka",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -253,10 +253,10 @@
     {
       "title": "Soukromý docent",
       "file": "13-kapitola-xii-soukromy-docent.html",
-      "words": 1077,
-      "chars": 7129,
-      "ideas": 81,
-      "isChapter": true,
+      "words": 1008,
+      "chars": 6674,
+      "ideas": 65,
+      "role": "chapter",
       "order": 12,
       "prev": "12-kapitola-xi-prvni-srazka.html",
       "next": "14-kapitola-xiii-omluva-kronikare.html",
@@ -265,7 +265,7 @@
           "index": 0,
           "level": 1,
           "name": "Soukromý docent",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -273,10 +273,10 @@
     {
       "title": "Omluva kronikáře",
       "file": "14-kapitola-xiii-omluva-kronikare.html",
-      "words": 1147,
-      "chars": 7396,
-      "ideas": 71,
-      "isChapter": true,
+      "words": 1077,
+      "chars": 6956,
+      "ideas": 39,
+      "role": "chapter",
       "order": 13,
       "prev": "13-kapitola-xii-soukromy-docent.html",
       "next": "15-kapitola-xiv-zeme-hojnosti.html",
@@ -285,7 +285,7 @@
           "index": 0,
           "level": 1,
           "name": "Omluva kronikáře",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -293,10 +293,10 @@
     {
       "title": "Země hojnosti",
       "file": "15-kapitola-xiv-zeme-hojnosti.html",
-      "words": 1582,
-      "chars": 10293,
-      "ideas": 108,
-      "isChapter": true,
+      "words": 1512,
+      "chars": 9853,
+      "ideas": 76,
+      "role": "chapter",
       "order": 14,
       "prev": "14-kapitola-xiii-omluva-kronikare.html",
       "next": "16-kapitola-xv-pohroma.html",
@@ -305,7 +305,7 @@
           "index": 0,
           "level": 1,
           "name": "Země hojnosti",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -313,10 +313,10 @@
     {
       "title": "Pohroma",
       "file": "16-kapitola-xv-pohroma.html",
-      "words": 1486,
-      "chars": 9231,
-      "ideas": 126,
-      "isChapter": true,
+      "words": 1417,
+      "chars": 8790,
+      "ideas": 96,
+      "role": "chapter",
       "order": 15,
       "prev": "15-kapitola-xiv-zeme-hojnosti.html",
       "next": "17-kapitola-xvi-na-horach.html",
@@ -325,7 +325,7 @@
           "index": 0,
           "level": 1,
           "name": "Pohroma",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -333,10 +333,10 @@
     {
       "title": "Na horách",
       "file": "17-kapitola-xvi-na-horach.html",
-      "words": 1301,
-      "chars": 7558,
-      "ideas": 164,
-      "isChapter": true,
+      "words": 1283,
+      "chars": 7286,
+      "ideas": 185,
+      "role": "chapter",
       "order": 16,
       "prev": "16-kapitola-xv-pohroma.html",
       "next": "18-kapitola-xvii-kladivo-a-hvezda.html",
@@ -345,7 +345,7 @@
           "index": 0,
           "level": 1,
           "name": "Na horách",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -353,10 +353,10 @@
     {
       "title": "Kladivo a hvězda",
       "file": "18-kapitola-xvii-kladivo-a-hvezda.html",
-      "words": 913,
-      "chars": 6048,
-      "ideas": 86,
-      "isChapter": true,
+      "words": 846,
+      "chars": 5577,
+      "ideas": 88,
+      "role": "chapter",
       "order": 17,
       "prev": "17-kapitola-xvi-na-horach.html",
       "next": "19-kapitola-xviii-v-nocni-redakci.html",
@@ -365,7 +365,7 @@
           "index": 0,
           "level": 1,
           "name": "Kladivo a hvězda",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -373,10 +373,10 @@
     {
       "title": "V noční redakci",
       "file": "19-kapitola-xviii-v-nocni-redakci.html",
-      "words": 1081,
-      "chars": 6818,
-      "ideas": 134,
-      "isChapter": true,
+      "words": 1089,
+      "chars": 6778,
+      "ideas": 155,
+      "role": "chapter",
       "order": 18,
       "prev": "18-kapitola-xvii-kladivo-a-hvezda.html",
       "next": "20-kapitola-xix-kanonizacni-proces.html",
@@ -385,7 +385,7 @@
           "index": 0,
           "level": 1,
           "name": "V noční redakci",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -393,10 +393,10 @@
     {
       "title": "Kanonizační proces",
       "file": "20-kapitola-xix-kanonizacni-proces.html",
-      "words": 984,
-      "chars": 6976,
-      "ideas": 83,
-      "isChapter": true,
+      "words": 914,
+      "chars": 6533,
+      "ideas": 54,
+      "role": "chapter",
       "order": 19,
       "prev": "19-kapitola-xviii-v-nocni-redakci.html",
       "next": "21-kapitola-xx-st-kilda.html",
@@ -405,7 +405,7 @@
           "index": 0,
           "level": 1,
           "name": "Kanonizační proces",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -413,10 +413,10 @@
     {
       "title": "St Kilda",
       "file": "21-kapitola-xx-st-kilda.html",
-      "words": 1528,
-      "chars": 9659,
-      "ideas": 131,
-      "isChapter": true,
+      "words": 1468,
+      "chars": 9203,
+      "ideas": 150,
+      "role": "chapter",
       "order": 20,
       "prev": "20-kapitola-xix-kanonizacni-proces.html",
       "next": "22-kapitola-xxi-depese.html",
@@ -425,7 +425,7 @@
           "index": 0,
           "level": 1,
           "name": "St Kilda",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -433,10 +433,10 @@
     {
       "title": "Depeše",
       "file": "22-kapitola-xxi-depese.html",
-      "words": 1129,
-      "chars": 6493,
-      "ideas": 126,
-      "isChapter": true,
+      "words": 1062,
+      "chars": 6053,
+      "ideas": 97,
+      "role": "chapter",
       "order": 21,
       "prev": "21-kapitola-xx-st-kilda.html",
       "next": "23-kapitola-xxii-stary-vlastenec.html",
@@ -445,7 +445,7 @@
           "index": 0,
           "level": 1,
           "name": "Depeše",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -453,10 +453,10 @@
     {
       "title": "Starý vlastenec",
       "file": "23-kapitola-xxii-stary-vlastenec.html",
-      "words": 1293,
-      "chars": 8078,
-      "ideas": 118,
-      "isChapter": true,
+      "words": 1304,
+      "chars": 8037,
+      "ideas": 153,
+      "role": "chapter",
       "order": 22,
       "prev": "22-kapitola-xxi-depese.html",
       "next": "24-kapitola-xxiii-augsburska-zapletka.html",
@@ -465,7 +465,7 @@
           "index": 0,
           "level": 1,
           "name": "Starý vlastenec",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -473,10 +473,10 @@
     {
       "title": "Augsburská zápletka",
       "file": "24-kapitola-xxiii-augsburska-zapletka.html",
-      "words": 1434,
-      "chars": 9521,
-      "ideas": 99,
-      "isChapter": true,
+      "words": 1364,
+      "chars": 9040,
+      "ideas": 108,
+      "role": "chapter",
       "order": 23,
       "prev": "23-kapitola-xxii-stary-vlastenec.html",
       "next": "25-kapitola-xxiv-napoleon-horske-brigady.html",
@@ -485,7 +485,7 @@
           "index": 0,
           "level": 1,
           "name": "Augsburská zápletka",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -493,10 +493,10 @@
     {
       "title": "Napoleon horské brigády",
       "file": "25-kapitola-xxiv-napoleon-horske-brigady.html",
-      "words": 1042,
-      "chars": 6749,
-      "ideas": 100,
-      "isChapter": true,
+      "words": 975,
+      "chars": 6329,
+      "ideas": 68,
+      "role": "chapter",
       "order": 24,
       "prev": "24-kapitola-xxiii-augsburska-zapletka.html",
       "next": "26-kapitola-xxv-takzvana-nejvetsi-valka.html",
@@ -505,7 +505,7 @@
           "index": 0,
           "level": 1,
           "name": "Napoleon horské brigády",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -513,10 +513,10 @@
     {
       "title": "Takzvaná největší válka",
       "file": "26-kapitola-xxv-takzvana-nejvetsi-valka.html",
-      "words": 1080,
-      "chars": 6901,
-      "ideas": 82,
-      "isChapter": true,
+      "words": 1010,
+      "chars": 6461,
+      "ideas": 50,
+      "role": "chapter",
       "order": 25,
       "prev": "25-kapitola-xxiv-napoleon-horske-brigady.html",
       "next": "27-kapitola-xxvi-bitva-u-hradce-kralove.html",
@@ -525,7 +525,7 @@
           "index": 0,
           "level": 1,
           "name": "Takzvaná největší válka",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -533,10 +533,10 @@
     {
       "title": "Bitva u Hradce Králové",
       "file": "27-kapitola-xxvi-bitva-u-hradce-kralove.html",
-      "words": 1108,
-      "chars": 7051,
-      "ideas": 105,
-      "isChapter": true,
+      "words": 1061,
+      "chars": 6734,
+      "ideas": 78,
+      "role": "chapter",
       "order": 26,
       "prev": "26-kapitola-xxv-takzvana-nejvetsi-valka.html",
       "next": "28-kapitola-xxvii-na-tichomorskem-atolu.html",
@@ -545,7 +545,7 @@
           "index": 0,
           "level": 1,
           "name": "Bitva u Hradce Králové",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -553,10 +553,10 @@
     {
       "title": "Na tichomořském atolu",
       "file": "28-kapitola-xxvii-na-tichomorskem-atolu.html",
-      "words": 1005,
-      "chars": 5870,
-      "ideas": 133,
-      "isChapter": true,
+      "words": 943,
+      "chars": 5384,
+      "ideas": 155,
+      "role": "chapter",
       "order": 27,
       "prev": "27-kapitola-xxvi-bitva-u-hradce-kralove.html",
       "next": "29-kapitola-xxviii-u-sedmi-chalup.html",
@@ -565,7 +565,7 @@
           "index": 0,
           "level": 1,
           "name": "Na tichomořském atolu",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -573,10 +573,10 @@
     {
       "title": "U Sedmi Chalup",
       "file": "29-kapitola-xxviii-u-sedmi-chalup.html",
-      "words": 954,
-      "chars": 5204,
-      "ideas": 122,
-      "isChapter": true,
+      "words": 889,
+      "chars": 4723,
+      "ideas": 136,
+      "role": "chapter",
       "order": 28,
       "prev": "28-kapitola-xxvii-na-tichomorskem-atolu.html",
       "next": "30-kapitola-xxix-posledni-bitva.html",
@@ -585,7 +585,7 @@
           "index": 0,
           "level": 1,
           "name": "U Sedmi Chalup",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -593,10 +593,10 @@
     {
       "title": "Poslední bitva",
       "file": "30-kapitola-xxix-posledni-bitva.html",
-      "words": 1035,
-      "chars": 6333,
-      "ideas": 106,
-      "isChapter": true,
+      "words": 968,
+      "chars": 5895,
+      "ideas": 77,
+      "role": "chapter",
       "order": 29,
       "prev": "29-kapitola-xxviii-u-sedmi-chalup.html",
       "next": "31-kapitola-xxx-konec-vsemu.html",
@@ -605,7 +605,7 @@
           "index": 0,
           "level": 1,
           "name": "Poslední bitva",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -613,10 +613,10 @@
     {
       "title": "Konec všemu",
       "file": "31-kapitola-xxx-konec-vsemu.html",
-      "words": 1085,
-      "chars": 6082,
-      "ideas": 141,
-      "isChapter": true,
+      "words": 1026,
+      "chars": 5610,
+      "ideas": 152,
+      "role": "chapter",
       "order": 30,
       "prev": "30-kapitola-xxix-posledni-bitva.html",
       "next": "32-zivot-a-doba-spisovatele-karla-capka-v-datech.html",
@@ -625,7 +625,7 @@
           "index": 0,
           "level": 1,
           "name": "Konec všemu",
-          "id": "chunk34",
+          "id": "chunk2",
           "children": []
         }
       ]
@@ -633,10 +633,10 @@
     {
       "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "32-zivot-a-doba-spisovatele-karla-capka-v-datech.html",
-      "words": 547,
-      "chars": 3499,
-      "ideas": 141,
-      "isChapter": true,
+      "words": 697,
+      "chars": 4003,
+      "ideas": 217,
+      "role": "chapter",
       "order": 31,
       "prev": "31-kapitola-xxx-konec-vsemu.html",
       "next": null,
@@ -645,7 +645,7 @@
           "index": 0,
           "level": 1,
           "name": "Život a doba spisovatele Karla Čapka v datech",
-          "id": "chunk33",
+          "id": "chunk1",
           "children": [
             {
               "index": 16,
@@ -661,10 +661,10 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 172,
-      "chars": 1177,
-      "ideas": 37,
-      "isChapter": false,
+      "words": 102,
+      "chars": 737,
+      "ideas": 5,
+      "role": "colophon",
       "order": null,
       "next": "01-predmluva.html",
       "toc": [
@@ -672,7 +672,7 @@
           "index": 0,
           "level": 1,
           "name": "Tiráž",
-          "id": "chunk33",
+          "id": "chunk1",
           "children": []
         }
       ]
@@ -680,33 +680,25 @@
     {
       "title": "Továrna na absolutno",
       "file": "index.html",
-      "words": 75,
-      "chars": 470,
-      "ideas": 35,
-      "isChapter": false,
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
       "order": null,
       "next": "01-predmluva.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Karel Čapek\n      \nTovárna\n      \nna absolutno",
-          "id": "chunk33",
-          "children": []
-        }
-      ]
+      "toc": []
     }
   ],
   "totals": {
     "all": {
-      "words": 38470,
-      "chars": 236604,
-      "ideas": 3906
+      "words": 36990,
+      "chars": 224964,
+      "ideas": 3967
     },
     "chapters": {
-      "words": 38223,
-      "chars": 234957,
-      "ideas": 3834
+      "words": 36888,
+      "chars": 224227,
+      "ideas": 3962
     }
   }
 }
