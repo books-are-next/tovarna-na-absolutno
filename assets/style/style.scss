@@ -89,7 +89,7 @@
   }
 
   ul {
-    padding-left: 5rem;
+    padding-left: 4rem;
   }
 
   ol {
@@ -98,8 +98,8 @@
     list-style-type: none;
 
     li {
-      text-indent: -5rem;
-      padding-left: 5rem;
+      text-indent: -4rem;
+      padding-left: 4rem;
     }
 
     li::before {
@@ -107,7 +107,7 @@
       content: "kapitola " counter(section);
 
       display: inline-block;
-      width: 5rem;
+      width: 4rem;
       text-indent: 0;
       font-size: 80%;
     }
