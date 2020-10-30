@@ -3,11 +3,11 @@
   "keywords": [],
   "published": 2020,
   "title": "Továrna na absolutno",
-  "identifier": "capek-tovarna-na-absolutno-2020-901c6e1",
-  "revision": "901c6e1",
+  "identifier": "capek-tovarna-na-absolutno-2020-18a2e4c",
+  "revision": "18a2e4c",
   "generatedAt": {
-    "date": "Wed Jul 08 2020 21:33:33 GMT+0200 (Central European Summer Time)",
-    "unix": 1594236813712
+    "date": "Fri Jul 31 2020 21:51:28 GMT+0200 (Central European Summer Time)",
+    "unix": 1596225088167
   },
   "documents": [
     {
@@ -53,9 +53,9 @@
     {
       "title": "Karburátor",
       "file": "03-kapitola-ii-karburator.html",
-      "words": 1301,
-      "chars": 7660,
-      "ideas": 165,
+      "words": 1247,
+      "chars": 7284,
+      "ideas": 163,
       "role": "chapter",
       "order": 2,
       "prev": "02-kapitola-i-inzerat.html",
@@ -533,9 +533,9 @@
     {
       "title": "Bitva u Hradce Králové",
       "file": "27-kapitola-xxvi-bitva-u-hradce-kralove.html",
-      "words": 1061,
-      "chars": 6734,
-      "ideas": 78,
+      "words": 1054,
+      "chars": 6682,
+      "ideas": 76,
       "role": "chapter",
       "order": 26,
       "prev": "26-kapitola-xxv-takzvana-nejvetsi-valka.html",
@@ -633,9 +633,9 @@
     {
       "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "32-zivot-a-doba-spisovatele-karla-capka-v-datech.html",
-      "words": 697,
-      "chars": 4003,
-      "ideas": 217,
+      "words": 540,
+      "chars": 3059,
+      "ideas": 172,
       "role": "chapter",
       "order": 31,
       "prev": "31-kapitola-xxx-konec-vsemu.html",
@@ -691,14 +691,14 @@
   ],
   "totals": {
     "all": {
-      "words": 36990,
-      "chars": 224964,
-      "ideas": 3967
+      "words": 36772,
+      "chars": 223592,
+      "ideas": 3918
     },
     "chapters": {
-      "words": 36888,
-      "chars": 224227,
-      "ideas": 3962
+      "words": 36670,
+      "chars": 222855,
+      "ideas": 3913
     }
   }
 }
