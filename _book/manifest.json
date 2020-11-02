@@ -3,11 +3,11 @@
   "keywords": [],
   "published": 2020,
   "title": "Továrna na absolutno",
-  "identifier": "capek-tovarna-na-absolutno-2020-18a2e4c",
-  "revision": "18a2e4c",
+  "identifier": "capek-tovarna-na-absolutno-2020-1440207",
+  "revision": "1440207",
   "generatedAt": {
-    "date": "Fri Jul 31 2020 21:51:28 GMT+0200 (Central European Summer Time)",
-    "unix": 1596225088167
+    "date": "Mon Nov 02 2020 13:33:37 GMT+0100 (Central European Standard Time)",
+    "unix": 1604320417223
   },
   "documents": [
     {
@@ -651,7 +651,7 @@
               "index": 16,
               "level": 2,
               "name": "První vydání knih Karla Čapka",
-              "id": "první-vydání-knih-karlanbspčapka",
+              "id": "chunk32",
               "children": []
             }
           ]
