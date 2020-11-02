@@ -3,10 +3,10 @@
 @import "title";
 
 :root {
-  --background: #fff;
-  --main: #255537;
-  --light: #fafafa;
-  --dark: rgba(0, 0, 0, 0.8);
+  //--background: #fff;
+  //--main: #255537;
+  //--light: #fafafa;
+  //--dark: rgba(0, 0, 0, 0.8);
 
   --line-height: 1.52rem;
 
@@ -14,7 +14,7 @@
   --content-font: "Spectral", serif;
 
   --content-max-width: 32rem;
-  color: var(--dark);
+  //color: var(--dark);
 }
 
 @media only screen and (min-width: 32rem) {
@@ -66,7 +66,7 @@
   }
 
   a {
-    color: black;
+    //color: black;
   }
 
   figure {
