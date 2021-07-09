@@ -122,3 +122,13 @@
     font-family: var(--heading-font);
   }
 }
+
+.feedback {
+  border: 1px solid var(--ui-c-soft);
+  border-radius: var(--border-radius);
+  padding: var(--base-padding);
+
+  p {
+    margin: 0;
+  }
+}

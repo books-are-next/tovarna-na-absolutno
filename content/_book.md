@@ -50,6 +50,10 @@ static:
   - favicon.png
 ---
 <nav role="doc-toc">
+  <div class="feedback">
+    <p>Co se vám na této webové knize líbí a nelíbí? <a href="https://docs.google.com/forms/d/e/1FAIpQLScgWWdaJq0fbpU-CMXYSFbo1kusoyLOTgl9aXiFgck3mYOEmA/viewform" target="_blank">Dejte nám vědět</a></p>
+  </div>
+  
     <ul>
         <li><a href="01-predmluva.html">Předmluva</a></li>
     </ul>
