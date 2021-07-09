@@ -1,18 +1,22 @@
 {{ define "content" }}
-<header class="title-wrapper">
-  <div class="title">
-    <h1 class="title-heading">
-      <span class="author">Karel Čapek</span><br>
-      Továrna<br>
-      na absolutno
-    </h1>
+<main>
+  <div>
+    <div class="top">
+      <h1 class="autor">Karel <br>Čapek</h1>
+    </div>
+    <div class="bottom">
+      <h1 class="titul">Továrna <br>na absolutno<br><span class="underline full"></span></h1>
 
-    <div class="dot"></div>
-    <div class="arrow"></div>
-    <div class="a"></div>
-    <div class="star"></div>
+      <h2 class="nakladatel"><br>N→B<br><span class="underline outline"></span></h2>
+    </div>
+
+    <div class="wrapper">
+      <div class="composition">
+        <video id="video" autoplay="" muted="" playsinline="" loop="">
+            <source src="./images/titulni.mp4" type="video/mp4">
+        </video>
+      </div>
+    </div>
   </div>
-</header>
-<main class="content">
 </main>
 {{ end }}

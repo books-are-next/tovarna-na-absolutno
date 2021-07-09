@@ -1,191 +1,160 @@
-.nb-role-index {
-  background: black;
+.nb-role-cover main > div,
+.nb-role-break main > div {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
 
-  .content {
-    display: none;
-  }
-}
-
-.title-wrapper {
-  --illu-size: 13;
-  z-index: 1;
-
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
-  bottom: 0;
-  right: 0;
 
-  min-height: 350px;
+  background-color: black;
 
-  background: black;
-  padding: 1rem;
-}
+  align-items: baseline;
 
-.title {
-  background: black;
-  box-sizing: border-box;
-  height: 100%;
-  width: 100%;
-  max-width: 180vh;
-  margin: 0 auto;
+  .wrapper {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
 
-  position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
-  .dot,
-  .arrow,
-  .a::after,
-  .star,
-  .title-heading {
+  .top,
+  .bottom {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 5vh 5vh 7vh 5vh;
     position: absolute;
+    align-items: baseline;
+    display: flex;
+    justify-content: space-between;
   }
 
-  .title-heading {
-    z-index: 5;
-    left: 0;
-    bottom: 0;
-
-    font-size: calc(var(--illu-size) * 0.5vh);
-    line-height: 1.52em;
-    margin: auto 0 -0.5rem 0;
-    color: white;
-    text-transform: uppercase;
-    white-space: nowrap;
-    font-family: "Space";
-
-    .author {
-      font-weight: normal;
-    }
-  }
-
-  .star {
-    z-index: 4;
-    right: 0;
-    bottom: 0;
-    height: calc(var(--illu-size) * 3vh);
-    width: calc(var(--illu-size) * 3vh);
-
-    background-image: url(../title/light.svg);
-    background-position: 100% 100%;
-    background-size: contain;
-    background-repeat: no-repeat;
-  }
-
-  .a::after {
-    display: block;
-    z-index: 3;
-    left: 50%;
+  .top {
     top: 0;
-    width: 40vw;
-
-    content: "A";
-    background: black;
-
-    font-family: "Cover", sans-serif;
-    color: white;
-    font-size: calc(60vh);
-    margin: 0 -20vw;
-    line-height: 1.2;
-    text-align: center;
-  }
-
-  .dot,
-  .arrow {
-    height: calc(var(--illu-size) * 3vh);
-    width: 50vw;
-    background-repeat: no-repeat;
-  }
-
-  .dot {
-    z-index: 2;
-    top: 0;
-    left: 0;
-
-    background-image: url(../title/dots.gif);
-    background-position: 0% 0%;
-    background-size: contain;
-  }
-
-  .arrow {
     z-index: 1;
-    top: 0;
-    right: 0;
+  }
 
-    background-image: url(../title/arrow.gif);
-    background-position: 100% 0%;
-    background-size: contain;
+  .bottom {
+    bottom: 0;
+    z-index: 1;
+  }
+
+  h1 {
+    font-size: 1em;
+    font-weight: normal;
+    color: white;
+    margin: 0;
+    padding: 0;
+  }
+
+  .autor,
+  .titul,
+  .nakladatel {
+    display: block;
+    font-family: Space, sans-serif;
+    font-size: 8vh;
+    line-height: 9.25vh;
+    text-indent: 0;
+    padding: 0;
+  }
+
+  .titul {
+    font-weight: bold;
+  }
+
+  .nakladatel {
+    font-size: 7vh;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+    padding: 0;
+
+    font-variant-caps: all-small-caps;
+    font-feature-settings: "case" on;
+  }
+
+  .underline {
+    display: inline-block;
+    box-sizing: border-box;
+
+    margin-top: 1.5vh;
+
+    width: 100%;
+    height: 3.125vh;
+  }
+
+  .full {
+    background-color: white;
+  }
+
+  .outline {
+    border: solid white 0.625vh;
+    margin-top: 0.7vh;
+  }
+
+  .composition {
+    width: 80vw;
+    height: 56vh;
+
+    max-width: 75vh;
+    max-height: 60vw;
+
+    position: relative;
+
+    margin-left: calc(30vw - 30vh);
+    margin-bottom: 7vh;
+  }
+
+  .video {
+    width: 56vh;
+    height: 56vh;
+
+    max-width: 60vw;
+    max-height: 60vw;
+
+    overflow: hidden;
+
+    border-radius: 50%;
+
+    border-collapse: separate;
+    position: absolute;
+    left: 0;
+  }
+
+  #video {
+    width: 100%;
+    height: 100%;
+  }
+
+  @media (max-aspect-ratio: 1/1) {
+    & > a {
+      font-size: 8vw;
+      line-height: 9.25vw;
+    }
+
+    .underline {
+      margin-top: 1.5vw;
+      height: 3.125vw;
+    }
+
+    .outline {
+      border: solid white 0.625vw;
+      margin-top: 0.7vw;
+    }
+
+    .composition {
+      margin-left: 0;
+    }
+
+    .top,
+    .bottom {
+      padding: 5vw 5vw 7vw 5vw;
+    }
   }
 }
-
-@media only screen and (max-aspect-ratio: 8/10) {
-  .title-wrapper {
-    --illu-size: 10;
-    padding-bottom: 3rem;
-
-    .dot,
-    .arrow {
-      height: calc(var(--illu-size) * 1.7vh);
-      background-size: cover;
-    }
-  }
-}
-
-@media only screen and (max-aspect-ratio: 7/10) {
-  .title-wrapper {
-    --illu-size: 7.5;
-
-    .title .a::after {
-      font-size: calc(70vh);
-    }
-  }
-}
-
-@media only screen and (min-aspect-ratio: 13/10) {
-  .title-wrapper {
-    --illu-size: 15;
-  }
-
-  .title {
-    height: 90vh;
-
-    .dot,
-    .arrow {
-      width: calc(var(--illu-size) * 5vh);
-      height: calc(var(--illu-size) * 1.5vh);
-    }
-
-    .star {
-      height: calc(var(--illu-size) * 3vh);
-      width: calc(var(--illu-size) * 3vh);
-    }
-
-    .a::after {
-      height: 100%;
-      font-size: 90vh;
-    }
-
-    .title-heading {
-      font-size: 7vh;
-      margin-bottom: -0.4em;
-    }
-  }
-}
-
-@mixin font-stretch($min-ratio, $font-stretch) {
-  @media only screen and (min-aspect-ratio: $min-ratio) {
-    .title {
-      .a {
-        font-stretch: $font-stretch;
-      }
-    }
-  }
-}
-
-@include font-stretch("8/10", 500%);
-@include font-stretch("9/10", 800%);
-@include font-stretch("13/10", 100%);
-@include font-stretch("14/10", 200%);
-@include font-stretch("15/10", 400%);
-@include font-stretch("16/10", 600%);
-@include font-stretch("17/10", 700%);
-@include font-stretch("18/10", 1000%);
