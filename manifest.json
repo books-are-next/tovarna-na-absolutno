@@ -3,11 +3,11 @@
   "keywords": [],
   "published": 2020,
   "title": "Továrna na absolutno",
-  "identifier": "capek-tovarna-na-absolutno-2020-0601f5d",
-  "revision": "0601f5d",
+  "identifier": "capek-tovarna-na-absolutno-2020-9a33fc4",
+  "revision": "9a33fc4",
   "generatedAt": {
-    "date": "Thu Jun 17 2021 21:50:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1623966613031
+    "date": "Fri Jul 09 2021 06:29:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1625812150892
   },
   "documents": [
     {
@@ -25,7 +25,7 @@
           "index": 0,
           "level": 1,
           "name": "Předmluva",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -45,7 +45,7 @@
           "index": 0,
           "level": 1,
           "name": "Inzerát",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -65,7 +65,7 @@
           "index": 0,
           "level": 1,
           "name": "Karburátor",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -85,7 +85,7 @@
           "index": 0,
           "level": 1,
           "name": "Panteismus",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -105,7 +105,7 @@
           "index": 0,
           "level": 1,
           "name": "Božský sklep",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -125,7 +125,7 @@
           "index": 0,
           "level": 1,
           "name": "Světící biskup",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -145,7 +145,7 @@
           "index": 0,
           "level": 1,
           "name": "MEAS",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -165,7 +165,7 @@
           "index": 0,
           "level": 1,
           "name": "Go on!",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -185,7 +185,7 @@
           "index": 0,
           "level": 1,
           "name": "Na bagru",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -205,7 +205,7 @@
           "index": 0,
           "level": 1,
           "name": "Slavnost",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -225,7 +225,7 @@
           "index": 0,
           "level": 1,
           "name": "Svatá elen",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -245,7 +245,7 @@
           "index": 0,
           "level": 1,
           "name": "První srážka",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -265,7 +265,7 @@
           "index": 0,
           "level": 1,
           "name": "Soukromý docent",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -285,7 +285,7 @@
           "index": 0,
           "level": 1,
           "name": "Omluva kronikáře",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -305,7 +305,7 @@
           "index": 0,
           "level": 1,
           "name": "Země hojnosti",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -325,7 +325,7 @@
           "index": 0,
           "level": 1,
           "name": "Pohroma",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -345,7 +345,7 @@
           "index": 0,
           "level": 1,
           "name": "Na horách",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -365,7 +365,7 @@
           "index": 0,
           "level": 1,
           "name": "Kladivo a hvězda",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -385,7 +385,7 @@
           "index": 0,
           "level": 1,
           "name": "V noční redakci",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -405,7 +405,7 @@
           "index": 0,
           "level": 1,
           "name": "Kanonizační proces",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -425,7 +425,7 @@
           "index": 0,
           "level": 1,
           "name": "St Kilda",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -445,7 +445,7 @@
           "index": 0,
           "level": 1,
           "name": "Depeše",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -465,7 +465,7 @@
           "index": 0,
           "level": 1,
           "name": "Starý vlastenec",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -485,7 +485,7 @@
           "index": 0,
           "level": 1,
           "name": "Augsburská zápletka",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -505,7 +505,7 @@
           "index": 0,
           "level": 1,
           "name": "Napoleon horské brigády",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -525,7 +525,7 @@
           "index": 0,
           "level": 1,
           "name": "Takzvaná největší válka",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -545,7 +545,7 @@
           "index": 0,
           "level": 1,
           "name": "Bitva u Hradce Králové",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -565,7 +565,7 @@
           "index": 0,
           "level": 1,
           "name": "Na tichomořském atolu",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -585,7 +585,7 @@
           "index": 0,
           "level": 1,
           "name": "U Sedmi Chalup",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -605,7 +605,7 @@
           "index": 0,
           "level": 1,
           "name": "Poslední bitva",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -625,7 +625,7 @@
           "index": 0,
           "level": 1,
           "name": "Konec všemu",
-          "id": "chunk2",
+          "id": null,
           "children": []
         }
       ]
@@ -645,7 +645,7 @@
           "index": 0,
           "level": 1,
           "name": "Život a doba spisovatele Karla Čapka v datech",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 16,
@@ -672,7 +672,7 @@
           "index": 0,
           "level": 1,
           "name": "Tiráž",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -680,20 +680,43 @@
     {
       "title": "Továrna na absolutno",
       "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
+      "words": 6,
+      "chars": 34,
+      "ideas": 3,
+      "role": "cover",
       "order": null,
       "next": "01-predmluva.html",
-      "toc": []
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Karel Čapek",
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Továrna na absolutno",
+          "id": null,
+          "children": [
+            {
+              "index": 2,
+              "level": 2,
+              "name": "N→B",
+              "id": null,
+              "children": []
+            }
+          ]
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 36772,
-      "chars": 223592,
-      "ideas": 3918
+      "words": 36778,
+      "chars": 223626,
+      "ideas": 3921
     },
     "chapters": {
       "words": 36670,
